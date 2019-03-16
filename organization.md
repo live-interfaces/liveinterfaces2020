@@ -1,8 +1,7 @@
 ---
 layout: page
-#title: Organization
+title: Organization
 ---
-## Organization
 
 Local organizing committee:  
 [Oeyvind Brandtsegg](https://www.ntnu.no/ansatte/oyvind.brandtsegg)  

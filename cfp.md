@@ -1,8 +1,7 @@
 ---
 layout: page
-#title: Call for Papers and Performances
+title: Call for Papers and Performances
 ---
-## Call for Papers and Performances
 
 ICLI is an interdisciplinary conference focussing on the role of interfaces in all artistic performance activities. 
 We encourage critical and reflective approaches to key themes in the design and use of live interfaces. 
