@@ -1,12 +1,18 @@
-# Call for Papers and Performances
+---
+layout: page
+#title: Call for Papers and Performances
+---
+## Call for Papers and Performances
 
 ICLI is an interdisciplinary conference focussing on the role of interfaces in all artistic performance activities. 
 We encourage critical and reflective approaches to key themes in the design and use of live interfaces. 
 A wide range of theoretical and practice based approaches are welcomed by people from all possible research or practice backgrounds.
 
-## Topics
+### Topics
 Topics include, but are not restricted to:
 
+- Artificial intelligence and ALife in interfaces 
+- Automation and metahuman extensions
 - New interfaces for musical expression 
 - Non-musical performance interfaces 
 - Multimodal and multisensory media 
@@ -14,7 +20,6 @@ Topics include, but are not restricted to:
 - Audiovisual performance 
 - Biophysical sensors 
 - Brain-computer interfaces 
-- Artificial intelligence and ALife in interfaces 
 - Notation for new interfaces 
 - Live coding in music, video, animation, dance 
 - Experimental gaming interfaces 
