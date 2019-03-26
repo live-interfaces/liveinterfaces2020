@@ -56,10 +56,8 @@ Papers and performance proposals must be written in English and should comply wi
 * Papers (5-8 pages) 
 * Poster/demo papers (3-6 pages) 
 * Doctoral Colloquium papers (2-6 pages). See a bespoke call 
-* Performances (2-4 page description, link to work, and a technical rider. Do note the limitations given in the call) 
-* Installations (2-4 page description, link to work, and a technical rider. Do note the limitations given in the call) 
-
-For further information, please read the disseminated Call for Proposals.
+* Performances (2-4 page description, link to work, and a technical rider. Do note the limitations given below) 
+* Installations (2-4 page description, link to work, and a technical rider. Do note the limitations given below) 
 
 All submissions will be received through the EasyChair conference submission system. See information on deadlines in the About section.
 
@@ -71,6 +69,11 @@ The proceedings  previous ICLI conferences can be found here:
 - [2016, complete](http://thormagnusson.github.io/liveinterfaces/proceedings2016.html)
 - [2018, complete](http://www.liveinterfaces.org/2018/)
 
-
+## Technical info for performances and installations:
+The performances and installations will be staged in a concert venue. 
+A good PA system appropriate for the hall is installed, and a decent set of microphones, lines, monitors, lights etc as one would expect for a professional concert venue. 
+The technical rider should inform which equipment is needed to allow for a smooth procedure during sound check.
+The conference can not provide any specialized equipment other than that commonly found in a concert venue for music. Also, the conference can not provide performers for composed pieces etc. 
+The submission of works to the conference implies that you will bring what you need of personell and special equipment to perform or install the piece.
 
  
