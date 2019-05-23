@@ -59,9 +59,16 @@ Papers and performance proposals must be written in English and should comply wi
 * Performances (2-4 page description, link to work, and a technical rider. Do note the limitations given below) 
 * Installations (2-4 page description, link to work, and a technical rider. Do note the limitations given below) 
 
-All submissions will be received through the EasyChair conference submission system. See information on deadlines in the About section.
+All submissions will be received through the EasyChair conference submission system. Important dates:
+* 9 August 2019: Call for papers and performances
+* 2 November 2019: Submission deadline
+* 13 December 2019: Notification of acceptance with reviewer feedback
+* 9 January 2020: Early bird registration deadline
+* 9 January 2020: Submission of reviewed version of papers 
+* 9-11 March 2020: Conference in Trondheim
 
-The proceedings will be published online. They will be Open Access, with Creative Commons attribution, and with an ISBN/ISSN number. Each individual paper will receive a Digital Object Identifier (DOI).
+
+The proceedings will be published online. They will be Open Access, with Creative Commons attribution. ICLI proceedings are published with the ISSN : 2663-9041. Each individual paper will receive a Digital Object Identifier (DOI).
 
 The proceedings  previous ICLI conferences can be found here:
 - [2012, selection](http://arteca.mit.edu/journal/leonardo-volume-48-issue-3)
