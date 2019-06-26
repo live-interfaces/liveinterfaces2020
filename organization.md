@@ -22,6 +22,6 @@ Maria Chatzichristodoulou (London South Bank University)
 Rui Penha (Escola Superior de Musica e Artes do Espectaculo)  
 Oeyvind Brandtsegg (Norwegian University of Science and Technology)
  
-Collaborators 
+## Collaborators 
 
-NTNU <img src="/assets/img/logo_ntnu.png" alt="ntnu logo" />
+NTNU <img src="/liveinterfaces2020/assets/img/logo_ntnu.png" alt="ntnu logo" />
