@@ -24,4 +24,4 @@ Oeyvind Brandtsegg (Norwegian University of Science and Technology)
  
 ## Collaborators 
 
-NTNU <img src="/liveinterfaces2020/assets/img/logo_ntnu.png" alt="ntnu logo" />
+<img src="/liveinterfaces2020/assets/img/logos.png" alt="collaboration logos" />
