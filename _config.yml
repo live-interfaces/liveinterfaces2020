@@ -30,9 +30,16 @@ permalink: pretty
 
 # Header nav
 navigation_header:
-  Home: /
-  Call: /cfp/
-  Organization: /organization/
+ - title: Home
+    url: /
+  - title: About
+    url: /about/
+  - title: CFP
+    url: /cfp/
+  - title: Categories
+    url: /categories/
+  - title: Organization
+    url: /organization/
 
 # Footer nav
 navigation_footer:
