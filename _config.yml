@@ -30,7 +30,7 @@ permalink: pretty
 
 # Header nav
 navigation_header:
- - title: Home
+  - title: Home
     url: /
   - title: About
     url: /about/
@@ -38,7 +38,7 @@ navigation_header:
     url: /cfp/
   - title: Categories
     url: /categories/
-  - title: Organization
+  - title: Organization 
     url: /organization/
 
 # Footer nav
