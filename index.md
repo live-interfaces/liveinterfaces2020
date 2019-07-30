@@ -23,7 +23,7 @@ The difference with A.I. and machine learning in general is that the internal wo
 a larger extent is a black box. We understand to a lesser degree how the internals of neural networks actually work, 
 and then, how do we understand what we do as artists with these interfaces?
 
-We are especially proud to announce **Rebecca Fiebrink** as a keynote speaker!
+We are especially proud to announce **[Rebecca Fiebrink](https://www.doc.gold.ac.uk/~mas01rf/homepage/)** as a keynote speaker!
 
 ### Collaboration with Meta.Morf
 This ICLI collaborates with the Meta.Morf biennal for art and technology (http://metamorf.no/), taking place in Trondheim from March 3 to May 5. The Meta.Morf opening week is 5-10 March, and ICLI will commence immediately after. This creates a special opportunity to spend some quality time in Trondheim, in the company of both the ICLI and the Meta.Morf crowd. ICLI attendees will get a discount on Meta.Morf tickets. The theme for Meta.Morf 2020 is "The digital wild" - bending and twisting our illusions about digital futures. Come stay a full week in Trondheim and get the best of both worlds.
