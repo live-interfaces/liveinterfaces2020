@@ -32,12 +32,8 @@ permalink: pretty
 navigation_header:
   - title: Home
     url: /
-  - title: About
-    url: /about/
   - title: CFP
     url: /cfp/
-  - title: Categories
-    url: /categories/
   - title: Organization 
     url: /organization/
 
