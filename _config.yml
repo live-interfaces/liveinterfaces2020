@@ -32,10 +32,12 @@ permalink: pretty
 navigation_header:
   - title: Home
     url: /
-  - title: CFP
+  - title: Call
     url: /cfp/
   - title: Organization 
     url: /organization/
+  - title: Program 
+    url: /program/
 
 # Footer nav
 navigation_footer:
