@@ -13,7 +13,7 @@ Local organizing committee:
 [Daniel Formo](https://www.ntnu.edu/employees/daniel.formo)  
 [Mathieu Lacroix](https://www.ntnu.edu/employees/mathieu.lacroix)  
 [Ada M. Hoel](http://adahoel.com/)  
-[Tone Åse](https://www.ntnu.edu/employees/tone.ase) 
+[Tone Åse](https://www.ntnu.edu/employees/tone.ase)   
 [Sara R. Martin](https://www.ntnu.edu/employees/sara.martin)
 
 ICLI Steering Committee:  
