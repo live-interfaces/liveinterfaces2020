@@ -28,40 +28,40 @@ Rui Penha (Escola Superior de Musica e Artes do Espectaculo)
 Oeyvind Brandtsegg (Norwegian University of Science and Technology)
  
 ICLI Scientific Committee:   
-Rui Penha - ESMAE / INESC TEC  
+Marije  Baalman - nescivi  
+Andreas  Bergsland - Norwegian University of Science and Technology  
+Gilberto  Bernardes - University of Porto, Faculty of Engineering and INESC TEC  
+Øyvind Brandtsegg - Norwegian University of Science and Technology  
 Carlos Caires - Escola Superior de Música de Lisboa  
 Miguel Carvalhais - INESC TEC / Faculdade de Belas Artes, Universidade do Porto  
-Luisa Ribas - FBAUL  
-Luís Leite - ESMAD / FEUP  
-Filipe Lopes - University of Aveiro  
-Águeda Simó - Universidade da Beira Interior  
+Cécile Chevalier - University of Sussex  
+Marco Conceição - Escola Superior de Música e Artes do Espetáculo - Politécnico do Porto  
+Trond Engum - Norwegian University of Science and Technology  
+Carla Fernandes - Universidade NOVA de Lisboa  
+Daniel Formo - Norwegian University of Science and Technology  
 José Alberto Gomes - CITAR/School of Arts, Portuguese Catholic University  
 Carlos Guedes - New York University  
-Cécile Chevalier - University of Sussex  
-Gilberto Bernardes - University of Porto, Faculty of Engineering and INESC TEC  
-Andrew McPherson - Queen Mary University of London  
-Carla Fernandes - Universidade NOVA de Lisboa  
-Daniel Jones - Goldsmiths, University of London   
 Rob Hamilton - Stanford University, CCARMA  
-Thor Magnusson - Music Department, University of Sussex  
-Marco Conceição - Escola Superior de Música e Artes do Espetáculo - Politécnico do Porto  
-David Ogborn - McMaster University  
-Edwin van der Heide - Leiden University  
-Diemo Schwarz - Ircam - CNRS STMS  
+Daniel Jones - Goldsmiths, University of London  
+Mathieu Lacroix - Norwegian University of Science and Technology  
+Luís Leite - ESMAD / FEUP  
+Filipe Lopes - University of Aveiro  
 Michael Lyons - Ritsumeikan University  
-Jeff Snyder - Snyderphonics  
-Ryan Ross Smith - State University of New York at Oneonta  
+Thor Magnusson - Music Department, University of Sussex  
+Sara Martin - Norwegian University of Science and Technology  
+Andrew McPherson - Queen Mary University of London  
+David Ogborn - McMaster University  
+Rui Penha - ESMAE / INESC TEC  
 Pedro Duarte Pestana - UCP  
 André Rangel - Universidade Católica Portuguesa e Universidade do Porto  
-Martin Zeilinger - Ontario College of Art & Design (OCAD) University  
-Marije Baalman - nescivi  
-Mathieu Lacroix - Norwegian University of Science and Technology  
-Øyvind Brandtsegg - Norwegian University of Science and Technology  
-Andreas Bergsland - Norwegian University of Science and Technology  
-Daniel Formo - Norwegian University of Science and Technology  
-Trond Engum - Norwegian University of Science and Technology  
-Sara Martin - Norwegian University of Science and Technology  
+Luisa Ribas - FBAUL  
+Ryan Ross Smith - State University of New York at Oneonta  
+Diemo Schwarz - Ircam - CNRS STMS  
+Águeda Simó - Universidade da Beira Interior  
+Jeff Snyder - Snyderphonics  
+Edwin van der Heide - Leiden University  
 Anna Xambò - Norwegian University of Science and Technology  
+Martin Zeilinger - Ontario College of Art & Design (OCAD) University  
 
 ## Collaborators 
 
