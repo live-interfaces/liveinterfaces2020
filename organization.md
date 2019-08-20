@@ -45,7 +45,7 @@ Rob Hamilton - Stanford University, CCARMA
 Daniel Jones - Goldsmiths, University of London  
 Mathieu Lacroix - Norwegian University of Science and Technology  
 Luís Leite - ESMAD / FEUP  
-Filipe Lopes - University of Aveiro  
+Filipe Lopes - ESMAD / CIPEM-INETmd / uniMAD  
 Michael Lyons - Ritsumeikan University  
 Thor Magnusson - Music Department, University of Sussex  
 Sara Martin - Norwegian University of Science and Technology  
