@@ -3,7 +3,7 @@ layout: page
 title: Trondheim
 ---
 
-<a id="venues">Map with Venues</a>  <a id="travel">Travel to Trondheim</a>  <a id="travel">Food</a>  <a id="travel">Accomodation</a>   <a id="travel">City Life</a>, <a id="travel">Contact</a> 
+<a id="venues">Map with Venues</a>  <a id="travel">Travel to Trondheim</a>  <!--<a id="travel">Food</a>  <a id="travel">Accomodation</a>   <a id="travel">City Life</a>, <a id="travel">Contact</a--> 
 
 
 <!DOCTYPE html>
@@ -32,13 +32,11 @@ title: Trondheim
         var marker = new tt.Marker()
         .setLngLat([10.411141,63.434183])
         .addTo(map)
-        marker.bindPopup('Dokkhuset, Dokkparken 4, 7042 Trondheim').openPopup();
-
+       
         var marker2 = new tt.Marker()
         .setLngLat([10.401732,63.438726])
         .addTo(map)
-        marker.bindPopup('Rockheim, Brattørkaia 14, 7010 Trondheim').openPopup();
-
+        
         map.addControl(new tt.FullscreenControl());
         map.addControl(new tt.NavigationControl());
     </script>
@@ -48,8 +46,10 @@ title: Trondheim
 
 
 <a href="#travel">Travel to Trondheim</a>
- 
-Værnes Airport Trondheim has good national and international flight connections.
-There are two companies offering direct bus services into Trondheim City, departing every 15min.
-The train travels along the coast line to Trondheim Sentrum and offers a beautiful landscape.
-It costs 90 NOK per way and goes one time per hour
+
+Værnes Airport Trondheim has national and international flight connections.
+There are two companies offering direct bus services into Trondheim City, departing every 15min.  
+* <a href="https://vaernesekspressen.no/">Værnes Ekspressen</a>
+* <a href="https://www.flybussen.no/?dir=to">Flybussen</a>  
+The train travels along the coast line to Trondheim Sentrum and offers a beautiful landscape, it
+goes one time per hour. 
