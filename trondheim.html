@@ -1,0 +1,53 @@
+---
+layout: page
+title: Trondheim
+---
+
+<a id="venues">Map with Venues</a>  <a id="travel">Travel to Trondheim</a>  <a id="travel">Food</a>  <a id="travel">Accomodation</a>   <a id="travel">City Life</a>, <a id="travel">Contact</a> 
+
+
+<!DOCTYPE html>
+<html class='use-all-space'>
+<head>
+    <meta http-equiv='X-UA-Compatible' content='IE=Edge' />
+    <meta charset='UTF-8'>
+    <title>Maps SDK for Web - Vector map</title>
+    <meta name='viewport' content='width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no'/>
+    <link rel='stylesheet' type='text/css' href='/liveinterfaces2020/assets/styles.css/assets/css/maps.css'/>
+    <!-- <link rel='stylesheet' type='text/css' href='../pages/examples/styles/main.css'/> -->
+</head>
+<body>
+    <div id='map' class='map'></div>
+    <script src='/liveinterfaces2020/assets/scripts/maps-web.min.js'></script>
+    <!--<script type='text/javascript' src='../pages/examples/assets/js/mobile-or-tablet.js'></script>-->
+    <script>
+        var map = tt.map({
+            key: 'vXNrwL4Kjysr5NpWgvCLUTwufTOB1skD',
+            container: 'map',
+            style: 'tomtom://vector/1/basic-main',
+            center: [10.411141,63.434183],
+            zoom: 13
+            // dragPan: !window.isMobileOrTablet()
+        });
+        var marker = new tt.Marker()
+        .setLngLat([10.411141,63.434183])
+        .addTo(map)
+
+        var marker2 = new tt.Marker()
+        .setLngLat([10.401732,63.438726])
+        .addTo(map)
+
+        map.addControl(new tt.FullscreenControl());
+        map.addControl(new tt.NavigationControl());
+    </script>
+</body>
+</html>
+
+
+
+<a href="#travel">Travel to Trondheim</a>
+ 
+Værnes Airport Trondheim has good national and international flight connections.
+There are two companies offering direct bus services into Trondheim City, departing every 15min.
+The train travels along the coast line to Trondheim Sentrum and offers a beautiful landscape.
+It costs 90 NOK per way and goes one time per hour

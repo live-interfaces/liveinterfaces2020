@@ -38,6 +38,8 @@ navigation_header:
     url: /organization/
   - title: Program 
     url: /program/
+  - title: Trondheim
+    url: /trondheim/
 
 # Footer nav
 navigation_footer:
