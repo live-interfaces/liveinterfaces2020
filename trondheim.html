@@ -32,10 +32,12 @@ title: Trondheim
         var marker = new tt.Marker()
         .setLngLat([10.411141,63.434183])
         .addTo(map)
+        marker.bindPopup('Dokkhuset, Dokkparken 4, 7042 Trondheim').openPopup();
 
         var marker2 = new tt.Marker()
         .setLngLat([10.401732,63.438726])
         .addTo(map)
+        marker.bindPopup('Rockheim, Brattørkaia 14, 7010 Trondheim').openPopup();
 
         map.addControl(new tt.FullscreenControl());
         map.addControl(new tt.NavigationControl());
