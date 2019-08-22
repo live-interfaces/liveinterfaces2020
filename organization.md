@@ -9,7 +9,7 @@ Local organizing committee:
 [Trond Engum](https://www.ntnu.no/ansatte/trond.engum)  
 [Andreas Bergsland](https://www.ntnu.no/ansatte/andreas.bergsland)  
 [Karolina Jawad](https://cv2c.noblogs.org)
-[Jørgen Nygård Varpe](https://github.com/MeltingPlanet) 
+[Jørgen Nygård Varpe](https://github.com/MeltingPlanet)  
 [Asbjørn Tiller](https://www.ntnu.edu/employees/asbjorn.tiller)  
 [Daniel Formo](https://www.ntnu.edu/employees/daniel.formo)  
 [Mathieu Lacroix](https://www.ntnu.edu/employees/mathieu.lacroix)  
