@@ -34,6 +34,7 @@ Gilberto  Bernardes - University of Porto, Faculty of Engineering and INESC TEC
 Øyvind Brandtsegg - Norwegian University of Science and Technology  
 Carlos Caires - Escola Superior de Música de Lisboa  
 Miguel Carvalhais - INESC TEC / Faculdade de Belas Artes, Universidade do Porto  
+Chris Kiefer - University of Sussex
 Cécile Chevalier - University of Sussex  
 Marco Conceição - Escola Superior de Música e Artes do Espetáculo - Politécnico do Porto  
 Trond Engum - Norwegian University of Science and Technology  
@@ -43,6 +44,7 @@ José Alberto Gomes - CITAR/School of Arts, Portuguese Catholic University
 Carlos Guedes - New York University  
 Rob Hamilton - Stanford University, CCARMA  
 Daniel Jones - Goldsmiths, University of London  
+Francisca Rocha Gonçalves - FEUP
 Mathieu Lacroix - Norwegian University of Science and Technology  
 Luís Leite - ESMAD / FEUP  
 Filipe Lopes - ESMAD / CIPEM-INETmd / uniMAD  
