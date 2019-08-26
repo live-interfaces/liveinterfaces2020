@@ -63,7 +63,7 @@ Diemo Schwarz - Ircam - CNRS STMS
 Águeda Simó - Universidade da Beira Interior  
 Jeff Snyder - Snyderphonics  
 Edwin van der Heide - Leiden University  
-Anna Xambò - Norwegian University of Science and Technology  
+Anna Xambó - Norwegian University of Science and Technology  
 Martin Zeilinger - Ontario College of Art & Design (OCAD) University  
 
 ## Collaborators 
