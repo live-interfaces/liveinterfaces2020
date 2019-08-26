@@ -66,6 +66,7 @@ Edwin van der Heide - Leiden University
 Anna Xambó - Norwegian University of Science and Technology  
 Martin Zeilinger - Ontario College of Art & Design (OCAD) University  
 
+
 ## Collaborators 
 
 <img src="/liveinterfaces2020/assets/img/logos.png" alt="collaboration logos" />
