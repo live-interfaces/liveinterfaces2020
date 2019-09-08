@@ -46,10 +46,10 @@ The proceedings previous ICLI conferences can be found here:
 * 9-11 March 2020: Conference in Trondheim 
 
 
-<h4> Colloquium paper session</h4>
+<h4> <a name="Colloquium"> Colloquium paper session </a></h4>
 ICLI 2020 will include a special Colloquium session. This will provide an opportunity to present early-phase research and receive feedback and discussion. In ICLI 2018 this was done as a doctoral symposium, and we found this an interesting forum for dialogue and discussion about works-in-progress. This time we would like to extend this opportunity also to other researchers, including doctoral students (but not exclusively). The colloquium aims to foster the discussion of research topics and approaches, and to promote interaction between the research community.
 The colloquium paper should include: 1) Purpose of the research and its importance to the field; 2) Brief survey of background and related work; 3) Description of the proposed approach; 4) Expected contributions; 5) Progress towards goals.
 
-<h4> Technical info for performances and installations:</h4>
+<h4> <a name="Techinfo"> Technical info for performances and installations:</a></h4>
 The performances and installations will be staged in a concert venue. A good PA system appropriate for the hall is installed, and a decent set of microphones, lines, monitors, lights etc as one would expect for a professional concert venue. The technical rider should inform which equipment is needed to allow for a smooth procedure during sound check. The conference cannot provide any specialized equipment other than that commonly found in a concert venue for music. Also, the conference cannot provide performers for composed pieces etc. The submission of works to the conference implies that you will bring what you need of personnel and special equipment to perform or install the piece.
 Performances should be limited to 10 minutes. Contact with the organizing committee if your performance has acute requirements for more time.
