@@ -21,7 +21,7 @@ All submission proposals must be written in English and should comply with the L
 * **Performances** (1 page description, link to work, and a technical rider. Note the limitations given [below](#Techinfo)
 * **Installations** (1 page description, link to work, and a technical rider. Note the limitations given [below](#Techinfo)  
 
-All submissions will be received through the [EasyChair](https://easychair.org/account/signin?l=E4u33zK3XtcTGIrHQWUrkc) conference submission system. 
+All submissions will be received through the [EasyChair](https://easychair.org/my/conference?conf=icli2020) conference submission system. 
 * Submissions must be original and will be rigorously reviewed by an international and multidisciplinary scientific committee, in a process that will assess originality, relevance, artistic and technical achievements; 
 * Submissions should be presented as .pdf files with all the media files embedded or linked to online resources; 
 * Final versions for publication should be delivered in .pdf, plus source files in [.docx, .odt or .tex](http://folk.ntnu.no/oyvinbra/Icli2020templates/ICLI2020templates.zip) with all the images and other media files attached as independent files; 
