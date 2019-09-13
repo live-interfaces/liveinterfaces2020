@@ -29,21 +29,26 @@ Rui Penha (Escola Superior de Musica e Artes do Espectaculo)
 Oeyvind Brandtsegg (Norwegian University of Science and Technology)
  
 ICLI Scientific Committee:   
-Marije  Baalman - nescivi  
-Andreas  Bergsland - Norwegian University of Science and Technology  
-Gilberto  Bernardes - University of Porto, Faculty of Engineering and INESC TEC  
+Amy Alexander - UCSD  
+Marije Baalman - nescivi  
+Andreas Bergsland - Norwegian University of Science and Technology  
+Gilberto Bernardes - University of Porto, Faculty of Engineering and INESC TEC  
 Øyvind Brandtsegg - Norwegian University of Science and Technology  
 Carlos Caires - Escola Superior de Música de Lisboa  
+Pedro Cardoso - Faculty of Engineering / Faculty of Fine Arts, University of Porto
 Miguel Carvalhais - INESC TEC / Faculdade de Belas Artes, Universidade do Porto  
 Chris Kiefer - University of Sussex
 Cécile Chevalier - University of Sussex  
 Marco Conceição - Escola Superior de Música e Artes do Espetáculo - Politécnico do Porto  
 Trond Engum - Norwegian University of Science and Technology  
+Alice Eldridge - University of Sussex  
 Carla Fernandes - Universidade NOVA de Lisboa  
 Daniel Formo - Norwegian University of Science and Technology  
+Pete Furniss- Goldsmiths, University of London  
 José Alberto Gomes - CITAR/School of Arts, Portuguese Catholic University  
 Carlos Guedes - New York University  
 Rob Hamilton - Stanford University, CCARMA  
+Enrike Hurtado Mendieta EHU  
 Daniel Jones - Goldsmiths, University of London  
 Francisca Rocha Gonçalves - FEUP
 Mathieu Lacroix - Norwegian University of Science and Technology  
@@ -59,6 +64,7 @@ Pedro Duarte Pestana - UCP
 André Rangel - Universidade Católica Portuguesa e Universidade do Porto  
 Luisa Ribas - FBAUL  
 Ryan Ross Smith - State University of New York at Oneonta  
+Cristina Sá CITAR / UCP  
 Diemo Schwarz - Ircam - CNRS STMS  
 Águeda Simó - Universidade da Beira Interior  
 Jeff Snyder - Snyderphonics  
