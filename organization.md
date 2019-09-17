@@ -8,6 +8,7 @@ Local organizing committee:
 [Anna Xambo Sedo](https://www.ntnu.no/ansatte/anna.xambo.sedo)  
 [Trond Engum](https://www.ntnu.no/ansatte/trond.engum)  
 [Andreas Bergsland](https://www.ntnu.no/ansatte/andreas.bergsland)  
+[Alexandra Murray-Leslie](https://www.kit.ntnu.no/nb/content/artec-artist-residence-alex-murray-leslie-chicks-speed)
 [Karolina Jawad &](https://cv2c.noblogs.org)
 [Jørgen Nygård Varpe](https://github.com/MeltingPlanet)  
 [Asbjørn Tiller](https://www.ntnu.edu/employees/asbjorn.tiller)  
