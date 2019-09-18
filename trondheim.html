@@ -63,7 +63,7 @@ title: Trondheim
         },
         properties: {
           title: 'Rockheim',
-          description: 'Conference center'
+          description: 'Brattørkaia 14, 7010 Trondheim'
         }
       },
       {
@@ -74,7 +74,7 @@ title: Trondheim
         },
         properties: {
           title: 'Dokkhuset',
-          description: 'Venue'
+          description: 'Dokkparken 4, 7042 Trondheim'
         }
       },
       {
@@ -85,7 +85,7 @@ title: Trondheim
         },
         properties: {
           title: 'Nidarosdomen',
-          description: 'Cathedral'
+          description: 'Kongsgårdsgata 2, 7013 Trondheim'
         }
       }]
     };
@@ -99,8 +99,12 @@ title: Trondheim
         // make a marker for each feature and add to the map
         new mapboxgl.Marker(el)
         .setLngLat(marker.geometry.coordinates)
-        .setPopup(new mapboxgl.Popup({ offset: 25, maxWidth: 150 }) // add popups
-          .setHTML('<h5>' + marker.properties.title + '</h5><p>' + marker.properties.description + '</p>'))
+        .setPopup(new mapboxgl.Popup({ offset: 25, maxWidth: 150, anchor: 'left' }) // add popups
+          .setHTML(
+            '<h5>' + marker.properties.title + '</h5>' + 
+            '<p>' + marker.properties.description + '</p>' + 
+            '<img src=\'../assets/img/' + marker.properties.title.toLowerCase() + '.jpg\'></img>'
+          ))
         .addTo(map);
       });
     });
@@ -132,8 +136,8 @@ title: Trondheim
   You can also travel to Trondheim by train from Oslo. The train from Oslo to to Trondheim also pass Gardermoen airport.
   Web site for train timetables and tickets: <a href="https://www.vy.no/en">vy.no</a>
 
-  <h3 id="contact">Contact</h3><br>  
-  <a href="mailto:liveinterfaces2020@gmail.com">liveinterfaces2020 (at) gmail.com</a>
+  <h3 id="contact">Contact</h3>
+  <p>Email inquiries: <a href="mailto:liveinterfaces2020@gmail.com">liveinterfaces2020 (at) gmail.com</a></p>
 </body>
 </html>
 
