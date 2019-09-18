@@ -1,7 +1,7 @@
 ---
 title: ICLI 2020 Trondheim
 layout: page
-feature_image: "./landscape-sea-coast-water-horizon-dock-808958-pxhere.com.jpg"
+feature_image: "./assets/landscape-sea-coast-water-horizon-dock-808958-pxhere.com.jpg"
 feature_text: |
 # Conference theme
 ---
