@@ -14,7 +14,7 @@ expression in the area of performance. Note that technologies here can be unders
 mediation, collaboration and timing or flow are engaged with and questioned in order to gain a deeper understanding of the role contemporary 
 media technologies play in human expression.
 
-Logo inspiration keywords: Collaboration, Translation, Transition, Reaching through, Performance, A.I., Mapping, Communication
+Logo inspiration keywords: _Collaboration, Translation, Transition, Reaching through, Performance, A.I., Mapping, Communication_
 
 ### LOGO FORMATS:
 * 3 Logo designs are to be delivered in the following formats:
