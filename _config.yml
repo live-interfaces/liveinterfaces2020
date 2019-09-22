@@ -40,6 +40,8 @@ navigation_header:
     url: /program/
   - title: Trondheim
     url: /trondheim/
+  - title: Logo competition
+    url: /logocompetition/
 
 # Footer nav
 navigation_footer:
