@@ -103,7 +103,8 @@ title: Trondheim
           .setHTML(
             '<h5>' + marker.properties.title + '</h5>' + 
             '<p>' + marker.properties.description + '</p>' + 
-            '<img src=\'../assets/img/' + marker.properties.title.toLowerCase() + '.jpg\'></img>'
+            // use the (...)_thumb.jpg images
+            '<img src=\'../assets/img/' + marker.properties.title.toLowerCase() + '_thumb.jpg\'></img>'
           ))
         .addTo(map);
       });
