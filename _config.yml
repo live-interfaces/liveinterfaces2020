@@ -47,3 +47,5 @@ navigation_header:
 navigation_footer:
   Back to top: "#top"
 
+
+theme: jekyll-theme-minimal
