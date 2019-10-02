@@ -3,8 +3,6 @@ layout: page
 title: Logo competition
 ---
 
-**ICLI LOGO DESIGN COMPETITION**
-
 ICLI is a Conference on Live Interfaces and the 5th edition will take place at NTNU, Trondheim, 9-11 March 2020.  
 
 ICLI is an interdisciplinary conference focusing on the role of interfaces in all artistic performance activities. 
