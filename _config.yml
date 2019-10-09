@@ -42,6 +42,8 @@ navigation_header:
     url: /trondheim/
   - title: Logo competition
     url: /logocompetition/
+  - title: Interfaces
+    url: /interfaces/
 
 # Footer nav
 navigation_footer:
