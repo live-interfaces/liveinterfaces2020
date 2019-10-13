@@ -13,6 +13,8 @@ The special theme of the 2020 conference is
 #### Automated Emotional Intelligence.  
 A.I. is relatively widespread and ubiquitous within interfaces for artistic expression. Within this domain we can also include various sorts of automation and algorithmic extensions, as this constitutes a form of external agency that allows us to do more – more than we could unassisted by these technologies. How does this affect the artistic expression? Is it merely a convenience and an affordance to allow us to interface to complex domains, and as such just extend our inherent abilities? Or, does it imply a deeper impact on how the art is made? We can assume that all interfaces affect what we can do in profound ways. The difference with A.I. and machine learning in general is that the internal workings of the algorithms to a larger extent is a black box. We understand to a lesser degree how the internals of neural networks actually work, and then, how do we understand what we do as artists with these interfaces?
 
+##### The call is open to all topics concerning live interfaces, not only to this year's special theme.
+
 <h4> Submission categories</h4>
 All submission proposals must be written in English and should comply with the Latex, Word or Open Office templates. Full papers must be submitted (not abstracts). The submission should be in a PDF format. We accept submissions in the following categories: 
 * **Papers** (5-8 pages). Can be presented at the conference either as a conventional paper or as a performative paper, i.e. as a mix of performance and oral presentation. Please specify which presentation form you would prefer. 
