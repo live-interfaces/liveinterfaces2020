@@ -128,4 +128,4 @@ You can also travel to Trondheim by train from Oslo. The train from Oslo to to T
 Web site for train timetables and tickets: [vy.no](https://www.vy.no/en)
 
 <h3 id="contact">Contact</h3>
-Email inquiries: [liveinterfaces2020 (at) gmail.com](mailto:liveinterfaces2020@gmail.com)
+Email inquiries: [liveinterfaces (at) gmail.com](mailto:liveinterfaces@gmail.com)

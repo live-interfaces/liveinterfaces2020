@@ -21,8 +21,8 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-url: 'https://live-interfaces.github.io/liveinterfaces2020'
-baseurl: '/liveinterfaces2020'
+url: 'https://live-interfaces.github.io/'
+baseurl: '/'
 title: 'ICLI 2020 Trondheim'
 description: 'International Conference on Live Interfaces, March 9-11 2020, Trondheim Norway'
 permalink: pretty
@@ -40,10 +40,12 @@ navigation_header:
     url: /program/
   - title: Trondheim
     url: /trondheim/
-  - title: Logo competition
-    url: /logocompetition/
+  - title: Interfaces
+    url: /interfaces/
 
 # Footer nav
 navigation_footer:
   Back to top: "#top"
 
+
+theme: alembic-jekyll-theme

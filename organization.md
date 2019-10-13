@@ -79,4 +79,4 @@ Martin Zeilinger - Ontario College of Art & Design (OCAD) University
 
 [NTNU ARTEC](https://www.ntnu.edu/artec), [Meta.Morf](http://metamorf.no/), [Dokkhuset](https://dokkhuset.no/), [Rockheim](https://rockheim.no), [NTNU](https://www.ntnu.no)
 
-<img src="/liveinterfaces2020/assets/img/logos.png" alt="collaboration logos" />
+<img src="../assets/img/logos.png" alt="collaboration logos" />
