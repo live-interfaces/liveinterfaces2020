@@ -1,7 +1,7 @@
 ---
 title: ICLI 2020 Trondheim
 layout: page
-feature_image: "./assets/img/Ibanner5.png"
+feature_image: "./assets/img/banner_icli.jpg"
 feature_text: |
 # Conference theme
 ---
