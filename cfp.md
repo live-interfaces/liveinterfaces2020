@@ -8,9 +8,10 @@ ICLI is an interdisciplinary conference focusing on the role of interfaces in al
 The fifth International Conference on Live Interfaces will take place at the Norwegian University of Science and Technology in Trondheim, NTNU, 9-11 March 2020. This biennial conference will bring together people working with live interfaces in the performing arts, including music, the visual arts, theatre, dance, puppetry, robotics or games. The conference scope is highly interdisciplinary but with a focus on interface technologies of expression in the area of performance. Note that technologies here can be understood in the widest possible sense. Topics of liveness, immediacy, presence (and tele-presence), mediation, collaboration and timing or flow are engaged with and questioned in order to gain a deeper understanding of the role contemporary media technologies play in human expression.
 
 
-The special theme of the 2020 conference is
-#### Artificial Intelligence. Artistic Intelligence. 
-#### Automated Emotional Intelligence.  
+The call is open to all topics of Live Interfaces as described above. 
+We have chosen to frame this in a theme for the 2020 conference, but the theme should be understood in the most open manner possible.
+##### Artificial Intelligence. Artistic Intelligence. 
+##### Automated Emotional Intelligence.  
 A.I. is relatively widespread and ubiquitous within interfaces for artistic expression. Within this domain we can also include various sorts of automation and algorithmic extensions, as this constitutes a form of external agency that allows us to do more – more than we could unassisted by these technologies. How does this affect the artistic expression? Is it merely a convenience and an affordance to allow us to interface to complex domains, and as such just extend our inherent abilities? Or, does it imply a deeper impact on how the art is made? We can assume that all interfaces affect what we can do in profound ways. The difference with A.I. and machine learning in general is that the internal workings of the algorithms to a larger extent is a black box. We understand to a lesser degree how the internals of neural networks actually work, and then, how do we understand what we do as artists with these interfaces?
 
 **The call is open to all topics concerning live interfaces, not only to this year's special theme.**
