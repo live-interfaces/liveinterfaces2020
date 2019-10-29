@@ -42,8 +42,8 @@ The proceedings previous ICLI conferences can be found here:
 
 <h4>Important dates</h4>
 * 20 August 2019: Call for papers and performances 
-* 2 November 2019: Submission deadline 
-* 13 December 2019: Notification of acceptance with reviewer feedback 
+* 12 November 2019: Submission deadline 
+* 20 December 2019: Notification of acceptance with reviewer feedback 
 * 9 January 2020: Early bird registration deadline 
 * 9 January 2020: Submission of reviewed version of papers 
 * 9-11 March 2020: Conference in Trondheim 
