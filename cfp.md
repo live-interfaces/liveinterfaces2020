@@ -9,7 +9,7 @@ The fifth International Conference on Live Interfaces will take place at the Nor
 
 
 The call is open to all topics of Live Interfaces as described above. 
-We have chosen to frame this in a theme for the 2020 conference, but the theme should be understood in the most open manner possible.
+We have chosen to frame this in a theme for the 2020 conference, but the theme should be understood in the most open manner possible:
 ##### Artificial Intelligence. Artistic Intelligence. 
 ##### Automated Emotional Intelligence.  
 A.I. is relatively widespread and ubiquitous within interfaces for artistic expression. Within this domain we can also include various sorts of automation and algorithmic extensions, as this constitutes a form of external agency that allows us to do more – more than we could unassisted by these technologies. How does this affect the artistic expression? Is it merely a convenience and an affordance to allow us to interface to complex domains, and as such just extend our inherent abilities? Or, does it imply a deeper impact on how the art is made? We can assume that all interfaces affect what we can do in profound ways. The difference with A.I. and machine learning in general is that the internal workings of the algorithms to a larger extent is a black box. We understand to a lesser degree how the internals of neural networks actually work, and then, how do we understand what we do as artists with these interfaces?
