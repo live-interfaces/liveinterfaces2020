@@ -15,4 +15,4 @@ title: Preliminary Program
  
 #### Wednesday, March 11
 * 9-16 Colloquium paper sessions, [Dokkhuset Scene](https://dokkhuset.no/)
-* 20-23 Open mike night, Jam session, [Cinemateket](http://www.cinemateket-trondheim.no/)   
+* 19-23 Open mike night, Jam session, [Cinemateket](http://www.cinemateket-trondheim.no/)   

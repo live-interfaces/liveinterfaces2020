@@ -29,6 +29,7 @@ title: Trondheim
   
 [Venues](#venues)
 [Travel](#travel)
+[Support](#support)
 [Contact](#contact)
 
 <div id='map'></div>
@@ -122,10 +123,19 @@ There are two companies offering direct bus services into Trondheim City, depart
 * [Flybussen](https://www.flybussen.no/?dir=to)
 
 The train travels along the coast line to Trondheim Sentrum and offers a beautiful landscape, it
-goes one time per hour. 
+runs once every hour. 
 
 You can also travel to Trondheim by train from Oslo. The train from Oslo to to Trondheim also pass Gardermoen airport.
 Web site for train timetables and tickets: [vy.no](https://www.vy.no/en)
+
+<h3 id="support">Support</h3>
+
+We are in dialogue with the Norwegian embassies in countries that has participants to ICLI. It might be possible to get travel support for participants. Participants can contact the Norwegian embassy in their home country to inquire further for this possibility.  
+Another option is also the [EEA Open Call](https://www.eeagrants.gov.pt/en/programmes/bilateral-relations/calls/fbr-open-call-1/) for bilateral relations: 
+
+Activities that can be supported by the FBR Open Call #1 could be, as examples: matchmaking events; technical cooperation and exchange of experts; short-term internships; training actions; workshops and seminars on topics of common interest.
+The deadline for selecting the third phase of applications ends on 10.01.2020, GMT 12:00:00.
+We have been informed that participants from eligible countries could apply here.
 
 <h3 id="contact">Contact</h3>
 Email inquiries: [liveinterfaces (at) gmail.com](mailto:liveinterfaces@gmail.com)

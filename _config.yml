@@ -38,9 +38,9 @@ navigation_header:
     url: /organization/
   - title: Program 
     url: /program/
-  - title: Trondheim
+  - title: Travel and participation
     url: /trondheim/
-  - title: Interfaces
+  - title: Opencall
     url: /interfaces/
 
 # Footer nav
