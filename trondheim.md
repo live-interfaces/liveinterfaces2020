@@ -27,9 +27,10 @@ title: Trondheim
   }
 </style>
   
+[Registration](#registration)
+[Support](#support)
 [Venues](#venues)
 [Travel](#travel)
-[Support](#support)
 [Contact](#contact)
 
 <div id='map'></div>
@@ -104,6 +105,25 @@ title: Trondheim
  
 </script>
 
+<h3 id="registation">Registration</h3>  
+The registration for ICLI will open late December. 
+Early bird registration will close on January 9th, but it is possible to register up until the conference starts.
+The conference fee is reduced for participants without an institutional affiliation, to support participation for independent artists and researchers. Bachelor and master students may  use the reduced fee too.
+Early bird registration (before January 9th) also get a reduced conference fee.
+
+Prices:  
+Full conference fee: 340 EUR, with an early bird price of 260 EUR  
+The reduced fee for independent artists and students: 170 EUR, with an early bird fee of 130 EUR  
+
+<h3 id="support">Support</h3>
+
+We are in dialogue with the Norwegian embassies in countries that has participants to ICLI. It might be possible to get travel support for participants. Participants can contact the Norwegian embassy in their home country to inquire further for this possibility.  
+Another option is also the [EEA Open Call](https://www.eeagrants.gov.pt/en/programmes/bilateral-relations/calls/fbr-open-call-1/) for bilateral relations: 
+
+Activities that can be supported by the FBR Open Call #1 could be, as examples: matchmaking events; technical cooperation and exchange of experts; short-term internships; training actions; workshops and seminars on topics of common interest.
+The deadline for selecting the third phase of applications ends on 10.01.2020, GMT 12:00:00.
+We have been informed that participants from eligible countries could apply here.
+
 <h3 id="venues">Venues</h3>  
 
 [Rockheim](https://rockheim.no/) is the National Museum of Popular Music that collects, preserve and disseminates
@@ -128,14 +148,6 @@ runs once every hour.
 You can also travel to Trondheim by train from Oslo. The train from Oslo to to Trondheim also pass Gardermoen airport.
 Web site for train timetables and tickets: [vy.no](https://www.vy.no/en)
 
-<h3 id="support">Support</h3>
-
-We are in dialogue with the Norwegian embassies in countries that has participants to ICLI. It might be possible to get travel support for participants. Participants can contact the Norwegian embassy in their home country to inquire further for this possibility.  
-Another option is also the [EEA Open Call](https://www.eeagrants.gov.pt/en/programmes/bilateral-relations/calls/fbr-open-call-1/) for bilateral relations: 
-
-Activities that can be supported by the FBR Open Call #1 could be, as examples: matchmaking events; technical cooperation and exchange of experts; short-term internships; training actions; workshops and seminars on topics of common interest.
-The deadline for selecting the third phase of applications ends on 10.01.2020, GMT 12:00:00.
-We have been informed that participants from eligible countries could apply here.
 
 <h3 id="contact">Contact</h3>
 Email inquiries: [liveinterfaces (at) gmail.com](mailto:liveinterfaces@gmail.com)
