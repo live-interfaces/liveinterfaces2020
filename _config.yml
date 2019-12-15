@@ -32,16 +32,21 @@ permalink: pretty
 navigation_header:
   - title: Home
     url: /
-  - title: Call
-    url: /cfp/
-  - title: Organization 
-    url: /organization/
   - title: Program 
     url: /program/
   - title: Travel and participation
     url: /trondheim/
-  - title: Opencall
-    url: /interfaces/
+  - title: Organization 
+    url: /organization/
+  - title: Proceedings 
+    url: /proceedings/
+  - title: About 
+    url: /about/
+
+  # - title: Call
+    # url: /cfp/
+  # - title: Open call
+    # url: /interfaces/
 
 # Footer nav
 navigation_footer:

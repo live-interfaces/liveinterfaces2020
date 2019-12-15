@@ -27,11 +27,38 @@ title: Trondheim
   }
 </style>
   
-[Registration](#registration)
-[Support](#support)
-[Venues](#venues)
-[Travel](#travel)
-[Contact](#contact)
+- [Registration](#registration)
+- [Support](#support)
+- [Venues](#venues)
+- [Travel](#travel)
+- [Contact](#contact)
+
+
+<h3 id="registation">Registration</h3>  
+The registration for ICLI will open late December. 
+Early bird registration will close on January 9th, but it is possible to register up until the conference starts.
+The conference fee is reduced for participants without an institutional affiliation, to support participation for independent artists and researchers. Bachelor and master students may  use the reduced fee too.
+Early bird registration (before January 9th) also get a reduced conference fee.
+
+Prices:  
+Full conference fee: 330 EUR, with an early bird price of 250 EUR  
+The reduced fee for independent artists and students: 170 EUR, with an early bird fee of 130 EUR  
+
+The conference fee includes access to all the events, coffeee and lunch for all three days, a copy of the Meta.Morf catalogue, and inclusion of your submission in the proceedings.
+
+
+<h3 id="support">Support</h3>
+
+We are in dialogue with the Norwegian embassies in countries that has participants to ICLI. It might be possible to get travel support for participants. Participants can contact the Norwegian embassy in their home country to inquire further for this possibility.  
+Another option is also the [EEA Open Call](https://www.eeagrants.gov.pt/en/programmes/bilateral-relations/calls/fbr-open-call-1/) for bilateral relations: 
+
+Activities that can be supported by the FBR Open Call #1 could be, as examples: matchmaking events; technical cooperation and exchange of experts; short-term internships; training actions; workshops and seminars on topics of common interest.
+The deadline for selecting the third phase of applications ends on 10.01.2020, GMT 12:00:00.
+We have been informed that participants from eligible countries could apply here.
+
+<h3 id="venues">Venues</h3>  
+
+
 
 <div id='map'></div>
 
@@ -104,38 +131,12 @@ title: Trondheim
   });
  
 </script>
-
-<h3 id="registation">Registration</h3>  
-The registration for ICLI will open late December. 
-Early bird registration will close on January 9th, but it is possible to register up until the conference starts.
-The conference fee is reduced for participants without an institutional affiliation, to support participation for independent artists and researchers. Bachelor and master students may  use the reduced fee too.
-Early bird registration (before January 9th) also get a reduced conference fee.
-
-Prices:  
-Full conference fee: 330 EUR, with an early bird price of 250 EUR  
-The reduced fee for independent artists and students: 170 EUR, with an early bird fee of 130 EUR  
-
-The conference fee includes access to all the events, coffeee and lunch for all three days, a copy of the Meta.Morf catalogue, and inclusion of your submission in the proceedings.
-
-
-<h3 id="support">Support</h3>
-
-We are in dialogue with the Norwegian embassies in countries that has participants to ICLI. It might be possible to get travel support for participants. Participants can contact the Norwegian embassy in their home country to inquire further for this possibility.  
-Another option is also the [EEA Open Call](https://www.eeagrants.gov.pt/en/programmes/bilateral-relations/calls/fbr-open-call-1/) for bilateral relations: 
-
-Activities that can be supported by the FBR Open Call #1 could be, as examples: matchmaking events; technical cooperation and exchange of experts; short-term internships; training actions; workshops and seminars on topics of common interest.
-The deadline for selecting the third phase of applications ends on 10.01.2020, GMT 12:00:00.
-We have been informed that participants from eligible countries could apply here.
-
-<h3 id="venues">Venues</h3>  
-
 [Rockheim](https://rockheim.no/) is the National Museum of Popular Music that collects, preserve and disseminates
 Norwegian popular music from the 1950s until today. Rockheim is located on the Brattørkaia in Trondheim.  
 
 [Dokkhuset](http://dokkhuset.no/) is a concert venue at Nedre Elvehavn in Trondheim. The Dokkhuset scene presents chamber music and jazz, new music, world music and other forms of musical expression.
 
 [Nidaros Cathedral](https://www.nidarosdomen.no/en/) is the world’s northernmost medieval cathedral and Norway’s national sanctuary.
-
 
 <h3 id="travel">Travel to Trondheim</h3>  
 
