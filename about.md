@@ -23,3 +23,6 @@ The special theme of 2020 is **Artificial Intelligence. Artistic Intelligence. A
 ### Open call for reflections on interfaces: *What is an interface to you?* [Deadline expired]
 
 ICLI 2020 will be hosted around the same time as Meta.Morf, a biennal in Trondheim focusing on arts and technology. As part of ICLI's submission to the Meta.Morf 2020 festival catalogue, we invited people to submit short reflections on the diversity of interfaces. A selection of these entries will be published in the Meta.Morf catalogue, and will later be published here.
+
+### Contact ###
+Email inquiries: [liveinterfaces (at) gmail.com](mailto:liveinterfaces@gmail.com)

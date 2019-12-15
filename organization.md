@@ -3,7 +3,7 @@ layout: page
 title: Organization
 ---
 
-Local organizing committee:  
+## Local organizing committee:  
 [Oeyvind Brandtsegg](https://www.ntnu.no/ansatte/oyvind.brandtsegg)  
 [Anna Xambo Sedo](https://www.ntnu.no/ansatte/anna.xambo.sedo)  
 [Trond Engum](https://www.ntnu.no/ansatte/trond.engum)  
@@ -16,10 +16,11 @@ Local organizing committee:
 [Daniel Formo](https://www.ntnu.edu/employees/daniel.formo)  
 [Mathieu Lacroix](https://www.ntnu.edu/employees/mathieu.lacroix)  
 [Ada M. Hoel](http://adahoel.com/)  
-[Tone Åse](https://www.ntnu.edu/employees/tone.ase)   
+[Tone Åse](https://www.ntnu.edu/employees/tone.ase)
 
+ICLI is hosted in Trondheim in March 2020. To get in touch with the local organizing committee, please send your inquiries to **liveinterfaces(at)gmail.com**.
 
-ICLI Steering Committee:  
+## ICLI Steering Committee:  
 Alex McLean (University of Leeds/FoAM Kernow)  
 Kate Sicchio (New York University)  
 Adriana Sa (EAVI / Goldsmiths, University of London)  
@@ -30,7 +31,7 @@ Maria Chatzichristodoulou (London South Bank University)
 Rui Penha (Escola Superior de Musica e Artes do Espectaculo)  
 Oeyvind Brandtsegg (Norwegian University of Science and Technology)
  
-ICLI Scientific Committee:   
+## ICLI Scientific Committee:   
 Marije Baalman - nescivi  
 Andreas Bergsland - Norwegian University of Science and Technology  
 Gilberto Bernardes - University of Porto  

@@ -31,8 +31,6 @@ title: Trondheim
 - [Support](#support)
 - [Venues](#venues)
 - [Travel](#travel)
-- [Contact](#contact)
-
 
 <h3 id="registation">Registration</h3>  
 The registration for ICLI will open late December. 
@@ -40,12 +38,11 @@ Early bird registration will close on January 9th, but it is possible to registe
 The conference fee is reduced for participants without an institutional affiliation, to support participation for independent artists and researchers. Bachelor and master students may  use the reduced fee too.
 Early bird registration (before January 9th) also get a reduced conference fee.
 
-Prices:  
+##### Prices
 Full conference fee: 330 EUR, with an early bird price of 250 EUR  
-The reduced fee for independent artists and students: 170 EUR, with an early bird fee of 130 EUR  
+The reduced fee for independent artists and students: 170 EUR, with an early bird fee of 130 EUR.
 
-The conference fee includes access to all the events, coffeee and lunch for all three days, a copy of the Meta.Morf catalogue, and inclusion of your submission in the proceedings.
-
+The conference fee includes access to all the events, coffee and lunch for all three days, a copy of the Meta.Morf catalogue, and inclusion of your submission in the proceedings.
 
 <h3 id="support">Support</h3>
 
@@ -151,7 +148,3 @@ runs once every hour.
 
 You can also travel to Trondheim by train from Oslo. The train from Oslo to to Trondheim also pass Gardermoen airport.
 Web site for train timetables and tickets: [vy.no](https://www.vy.no/en)
-
-
-<h3 id="contact">Contact</h3>
-Email inquiries: [liveinterfaces (at) gmail.com](mailto:liveinterfaces@gmail.com)
