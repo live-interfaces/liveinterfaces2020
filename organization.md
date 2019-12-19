@@ -31,52 +31,57 @@ Maria Chatzichristodoulou (London South Bank University)
 Rui Penha (Escola Superior de Musica e Artes do Espectaculo)  
 Oeyvind Brandtsegg (Norwegian University of Science and Technology)
  
-## ICLI Scientific Committee:   
+## ICLI 2020 Scientific Committee:   
+
+Claus Sohn Andersen - Kristiania University College  
 Marije Baalman - nescivi  
 Andreas Bergsland - Norwegian University of Science and Technology  
-Gilberto Bernardes - University of Porto  
+Gilberto Bernardes - University of Porto, Faculty of Engineering and INESC TEC 
 Francisco Bernardo - University of Sussex  
+Eirik Blekesaune - Stiftelsen Verdensteatret  
 Øyvind Brandtsegg - Norwegian University of Science and Technology  
-Pedro Cardoso - Faculty of Engineering and Faculty of Fine Arts, University of Porto  
+Pedro Cardoso - Faculty of Engineering / Faculty of Fine Arts, University of Porto
 Miguel Carvalhais - INESC TEC / Faculdade de Belas Artes, Universidade do Porto  
-Rodrigo Carvalho - FEUP / Universidade do Porto  
+Rodrigo	Carvalho - FEUP / Universidade do Porto  
 Cécile Chevalier - University of Sussex  
 Marco Conceição - Escola Superior de Música e Artes do Espetáculo - Politécnico do Porto  
 Balandino Di Donato - University of Leicester  
 Trond Engum - Norwegian University of Science and Technology  
 Daniel Formo - Norwegian University of Science and Technology  
-Pete Furniss - Goldsmiths, University of London  
-José Alberto Gomes - INESC TEC  
-Francisca R. Gonçalves - FEUP  
+Pete Furniss- Goldsmiths, University of London  
+José Alberto Gomes - CITAR/School of Arts, Portuguese Catholic University  
+Francisca Rocha Gonçalves - FEUP  
 Carlos Guedes - New York University  
-Robert Hamilton - Stanford University, Center for Computer Research in Music and Acoustics  
-Enrique Hurtado - EHU  
+Rob Hamilton - Stanford University, CCARMA  
+Enrike Hurtado Mendieta EHU  
 Vitor Joaquim - Research Center for Science and Technology of the Arts (CITAR) Portuguese Catholic University – School of the Arts  
 Daniel Jones - Goldsmiths, University of London  
 Martin Kaltenbrunner - University of Art and Design Linz  
-Chris Kiefer - University of Sussex  
+Chris Kiefer - University of Sussex
 Mathieu Lacroix - Norwegian University of Science and Technology  
 Luís Leite - ESMAD / FEUP  
-Filipe Cunha Monteiro Lopes - Escola Superior de Media Artes e Design - IPP  
+Filipe Cunha Monteiro Lopes - ESMAD / CIPEM-INETmd / uniMAD  
 Michael Lyons - Ritsumeikan University  
+Thor Magnusson - Music Department, University of Sussex  
+Louis McCallum - Goldsmiths, University of London  
 Alex Mclean - Research Institute for the History of Science and Technology, Deutsches Museum, Munich  
 Andrew McPherson - Queen Mary University of London  
 Lia Mice - Queen Mary University of London  
 David Ogborn - McMaster University  
-Rui Penha - INESC TEC / FEUP  
-Pedro Pestana - UCP  
+Jørgen	Orheim - Kristiania Professional College  
+Rui Penha - ESMAE / INESC TEC  
+Pedro Duarte Pestana - UCP  
 André Rangel - Universidade Católica Portuguesa e Universidade do Porto  
-Luísa Ribas - Faculty of Fine Arts, University of Lisbon  
-Cristina Sá - CITAR – Centro de Investigação em Ciência e Tecnologia das Artes, Escola das Artes, Centro Regional do Porto da Universidade Católica Portuguesa  
+Luisa Ribas - FBAUL  
+Cristina Sá CITAR / UCP  
 Diemo Schwarz - Ircam - CNRS STMS  
-Agueda Simo - Universidade da Beira Interior  
+Kate Sicchio - Virginia Commonwealth University  
+Águeda Simó - Universidade da Beira Interior  
 Jeff Snyder - Snyderphonics  
-Claus Sohn Andersen - Kristiania University College  
-Halldór Úlfarsson - IAA  
+Halldór	Úlfarsson - IAA  
 Edwin van der Heide - Leiden University  
-Bernt Isak Wærstad - Norwegian University of Science and Technology  
 Anna Xambó - Norwegian University of Science and Technology  
-
+Bernt Isak Wærstad - Norwegian University of Science and Technology  
 
 ## Collaborators 
 

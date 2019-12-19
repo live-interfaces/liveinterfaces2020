@@ -33,10 +33,10 @@ title: Trondheim
 - [Travel](#travel)
 
 <h3 id="registation">Registration</h3>  
-The registration for ICLI will open late December. 
-Early bird registration will close on January 9th, but it is possible to register up until the conference starts.
+The registration for ICLI is now OPEN. go to [this link](https://ntnu.eventsair.com/icli2020/registration) to register.
+Early bird registration give a reduced price and is open until January 30th. It is possible to register (full price) up until the conference starts.
 The conference fee is reduced for participants without an institutional affiliation, to support participation for independent artists and researchers. Bachelor and master students may  use the reduced fee too.
-Early bird registration (before January 9th) also get a reduced conference fee.
+
 
 ##### Prices
 Full conference fee: 330 EUR, with an early bird price of 250 EUR  
