@@ -15,4 +15,4 @@ title: Preliminary Program
  
 #### Wednesday, March 11
 * 10-17 Daytime session with a mix of paper presentations, performance papers, colloquium papers and installations. [Dokkhuset Scene](https://dokkhuset.no/)
-* 19-23 Open mike night, Jam session, [Cinemateket](http://www.cinemateket-trondheim.no/)   
+* 19-23 Concert, [Cinemateket](http://www.cinemateket-trondheim.no/)   
