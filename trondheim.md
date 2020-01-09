@@ -28,7 +28,6 @@ title: Trondheim
 </style>
   
 - [Registration](#registration)
-- [Support](#support)
 - [Venues](#venues)
 - [Travel](#travel)
 
@@ -44,14 +43,6 @@ The reduced fee for independent artists and students: 170 EUR, with an early bir
 
 The conference fee includes access to all the events, coffee and lunch for all three days, a copy of the Meta.Morf catalogue, and inclusion of your submission in the proceedings.
 
-<h3 id="support">Support</h3>
-
-We are in dialogue with the Norwegian embassies in countries that has participants to ICLI. It might be possible to get travel support for participants. Participants can contact the Norwegian embassy in their home country to inquire further for this possibility.  
-Another option is also the [EEA Open Call](https://www.eeagrants.gov.pt/en/programmes/bilateral-relations/calls/fbr-open-call-1/) for bilateral relations: 
-
-Activities that can be supported by the FBR Open Call #1 could be, as examples: matchmaking events; technical cooperation and exchange of experts; short-term internships; training actions; workshops and seminars on topics of common interest.
-The deadline for selecting the third phase of applications ends on 10.01.2020, GMT 12:00:00.
-We have been informed that participants from eligible countries could apply here.
 
 <h3 id="venues">Venues</h3>  
 
