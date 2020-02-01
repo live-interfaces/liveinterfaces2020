@@ -28,6 +28,7 @@ title: Trondheim
 </style>
   
 - [Registration](#registration)
+- [Accomodation](#accomodation)
 - [Venues](#venues)
 - [Travel](#travel)
 
@@ -42,6 +43,56 @@ Full conference fee: 330 EUR, with an early bird price of 250 EUR
 The reduced fee for independent artists and students: 170 EUR, with an early bird fee of 130 EUR.
 
 The conference fee includes access to all the events, coffee and lunch for all three days, a copy of the Meta.Morf catalogue, and inclusion of your submission in the proceedings.
+
+
+<h3 id="accomodation">Accomodation</h3>
+
+Below are some recommended accomodation possibilities.
+
+###### Quality Hotel Augustin
+
+![Quality Hotel Augustin](/assets/img/Quality-Hotel-Augustin.jpg)
+
+**Special prices for ICLI participants**:
+
+- Single room: 1050 NOK
+- Double room: 1250 NOK
+
+**The rooms must be booked directly with the hotel** (phone +47 73 54 70 00). The booking must be done **at least 3 weeks before the conference** starts to ensure availability.
+
+Use reference number "4857" when booking to get these ICLI prices.
+
+The booking must be done at least 3 weeks before the conference starts to ensure availability.
+
+###### Comfort Hotel Park
+
+![Comfort Park](/assets/img/Comfort-Hotel-Park.jpg)
+
+**Prices:**
+
+- Single room: 1123 NOK
+- Double room: 1340 NOK
+
+**Contact**
+
+- Website: [Comfort Hotel Park](https://www.nordicchoicehotels.no/hotell/norge/trondheim/comfort-hotel-park/)
+- Email: [co.park@choice.no](mailto:co.park@choice.no)
+- Phone: +47 73833900
+- Fax: +47 73833901
+
+
+###### Purchase agreement with NTNU
+
+- [Nordic Choice Hotels](https://www.nordicchoicehotels.com/hotels/norway/trondheim)
+- [Thon Hotels](https://www.thonhotels.com/our-hotels/norway/trondheim/thon-hotel-trondheim/)
+- Rezidor Hotels
+- [Scandic Hotels](https://www.scandichotels.com/hotels/norway/trondheim)
+
+###### Other options
+
+- [Radisson Blue Royal Garden](https://www.radissonhotels.com/en-us/hotels/radisson-blu-trondheim-royal-garden)
+- [Nidaros Pilegrimsgård](http://pilegrimsgarden.pilegrimsleden.no/)
+- [Trondheim Vandrerhjem](http://www.trondheimvandrerhjem.no/en/home.html)
 
 
 <h3 id="venues">Venues</h3>  
