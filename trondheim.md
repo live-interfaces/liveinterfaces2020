@@ -80,16 +80,11 @@ The booking must be done at least 3 weeks before the conference starts to ensure
 - Phone: +47 73833900
 - Fax: +47 73833901
 
-
-###### Purchase agreement with NTNU
+###### Other options
 
 - [Nordic Choice Hotels](https://www.nordicchoicehotels.com/hotels/norway/trondheim)
 - [Thon Hotels](https://www.thonhotels.com/our-hotels/norway/trondheim/thon-hotel-trondheim/)
-- Rezidor Hotels
 - [Scandic Hotels](https://www.scandichotels.com/hotels/norway/trondheim)
-
-###### Other options
-
 - [Radisson Blue Royal Garden](https://www.radissonhotels.com/en-us/hotels/radisson-blu-trondheim-royal-garden)
 - [Nidaros Pilegrimsgård](http://pilegrimsgarden.pilegrimsleden.no/)
 - [Trondheim Vandrerhjem](http://www.trondheimvandrerhjem.no/en/home.html)
