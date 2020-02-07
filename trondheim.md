@@ -178,10 +178,20 @@ Værnes Airport Trondheim has national and international flight connections.
 There are two companies offering direct bus services into Trondheim City, departing every 15min.  
 
 * [Værnes Ekspressen](https://vaernesekspressen.no/)
-* [Flybussen](https://www.flybussen.no/?dir=to)
 
 The train travels along the coast line to Trondheim Sentrum and offers a beautiful landscape, it
 runs once every hour. 
 
 You can also travel to Trondheim by train from Oslo. The train from Oslo to to Trondheim also pass Gardermoen airport.
 Web site for train timetables and tickets: [vy.no](https://www.vy.no/en)
+
+###Travel within Trondheim
+
+####Info on bus/tram/taxi
+[AtB](https://www.atb.no/en/), transport company in Trondheim. Tickets can be purchased with mobile app “Mobillett” or SMS. Single tickets are 38 NOK and lasts 90 minutes. 24-hour tickets are 114 NOK, and 7 day tickets are 266 NOK. 
+It is also possible to buy tickets at selected "Narvesen", "7-Eleven" og "Coop" shops. Paying on-board using cash is not possible
+Zone A covers the city center entirely.
+
+####Taxi phone numbers
+Trøndertaxi +47 930 07373 (calling from abroad) or 07373 (calling from Norway)
+Norges taxi +47 930 08000 (calling from abroad) or 08000 (calling from Norway)
