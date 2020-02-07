@@ -42,7 +42,7 @@ The conference fee is reduced for participants without an institutional affiliat
 Full conference fee: 330 EUR, with an early bird price of 250 EUR  
 The reduced fee for independent artists and students: 170 EUR, with an early bird fee of 130 EUR.
 
-The conference fee includes access to all the events, coffee and lunch for all three days, a copy of the Meta.Morf catalogue, and inclusion of your submission in the proceedings.
+The conference fee includes access to all the events, coffee and lunch for all three days, a copy of the Meta.Morf catalogue, and inclusion of your submission in the proceedings. You also get free entrance to the Meta.Morf exhibition at Gråmølna [https://trondheimkunstmuseum.no/tkm-gramolna](https://trondheimkunstmuseum.no/tkm-gramolna)
 
 
 <h3 id="accomodation">Accomodation</h3>
