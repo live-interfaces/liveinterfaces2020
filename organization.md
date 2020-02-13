@@ -11,7 +11,7 @@ title: Organization
 [Alexandra Murray-Leslie](https://www.kit.ntnu.no/nb/content/artec-artist-residence-alex-murray-leslie-chicks-speed)  
 [Sara R. Martin](https://www.ntnu.no/ansatte/sara.martin)  
 [Karolina Jawad](https://cv2c.noblogs.org)  
-[Ulrik Antoniussen Hamøy](http://ulrikah.no/)   
+[Ulrik Antoniussen Halmøy](http://ulrikah.no/)   
 [Asbjørn Tiller](https://www.ntnu.edu/employees/asbjorn.tiller)  
 [Daniel Formo](https://www.ntnu.edu/employees/daniel.formo)  
 [Mathieu Lacroix](https://www.ntnu.edu/employees/mathieu.lacroix)  
