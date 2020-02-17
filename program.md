@@ -29,10 +29,26 @@ title: Program
 		font-size: 1.2em;
 	}
 
+	.links > * { 
+		display: block;
+		margin: 1%;
+		font-size: 1.4em;
+	}
+
+
+
 </style>
 
 <br>
-<h2> ☞ Monday 09.03 </h2>
+<div class="links">
+	<span> ☞ </span>
+	<a href="#monday">Monday</a>
+	<a href="#tueday">Tuesday</a>
+	<a href="#wednesday">Wednesday</a>
+</div>
+
+<br>
+<h2 id="monday"> Monday 09.03 </h2>
 
 <table class="table table-bordered table-hover table-condensed">
 	<thead>
@@ -153,7 +169,7 @@ title: Program
 </table>
 
 <br>
-<h2> ☞ Tuesday 10.03 </h2>
+<h2 id="tueday"> Tuesday 10.03 </h2>
 
 <table class="table table-bordered table-hover table-condensed">
 	<thead>
@@ -296,7 +312,7 @@ title: Program
 </table>
 
 <br>
-<h2> ☞ Wednesday 11.03 </h2>
+<h2 id="wednesday"> Wednesday 11.03 </h2>
 
 <table class="table table-bordered table-hover table-condensed">
 	<thead>
