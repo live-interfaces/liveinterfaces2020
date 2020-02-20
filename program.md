@@ -159,7 +159,7 @@ title: Program
 		<td>Dokkhuset</td>
 		</tr>
 		<tr>
-			<td class="info">Evening program</td>
+			<td class="info">Evening&nbspprogram</td>
 			<td> </td>
 			<td> </td>
 			<td> </td>
@@ -281,7 +281,7 @@ title: Program
 		<td>Dokkhuset</td>
 		</tr>
 		<tr>
-			<td class="info">Evening program</td>
+			<td class="info">Evening&nbspprogram</td>
 			<td> </td>
 			<td> </td>
 			<td> </td>
@@ -438,7 +438,7 @@ title: Program
 		<td>Dokkhuset</td>
 		</tr>
 		<tr>
-			<td class="info">Evening program</td>
+			<td class="info">Evening&nbspprogram</td>
 			<td> </td>
 			<td> </td>
 			<td> </td>
