@@ -114,7 +114,7 @@ title: Program
 		<td> </td>
 		<td> </td>
 		<td>12:30</td>
-		<td>Dokkhuset</td>
+		<td>Cantina at Kunstakademiet</td>
 		</tr>
 		<tr>
 		<td>Øystein Fjeldbo and Diana Lindbjerg</td>
@@ -157,6 +157,13 @@ title: Program
 		<td>Paper</td>
 		<td>15:25</td>
 		<td>Dokkhuset</td>
+		</tr>
+		<tr>
+			<td class="info">Evening program</td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
 		</tr>
 		<tr>
 		<td>Øyvind Brandtsegg and Petra Bjørkhaug</td>
@@ -236,7 +243,7 @@ title: Program
 		<td> </td>
 		<td> </td>
 		<td>12:30</td>
-		<td>Dokkhuset</td>
+		<td>Cantina at Kunstakademiet</td>
 		</tr>
 		<tr>
 		<td>Tijs Ham</td>
@@ -272,6 +279,13 @@ title: Program
 		<td>Paper</td>
 		<td>15:15</td>
 		<td>Dokkhuset</td>
+		</tr>
+		<tr>
+			<td class="info">Evening program</td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
 		</tr>
 		<tr>
 		<td>Rebecca Fiebrink</td>
@@ -362,7 +376,7 @@ title: Program
 		</tr>
 		<tr>
 			<td>Stian Westerhus</td>
-			<td>Keynote</td>
+			<td>Invited paper: Transcending the interface</td>
 			<td> </td>
 			<td>12:05</td>
 			<td>Dokkhuset</td>
@@ -379,7 +393,7 @@ title: Program
 			<td> </td>
 			<td> </td>
 			<td>12:35</td>
-			<td>Dokkhuset</td>
+			<td>Cantina at Kunstakademiet</td>
 		</tr>
 		<tr>
 			<td>Kristin Norderval</td>
@@ -422,6 +436,13 @@ title: Program
 		<td>Performance paper</td>
 		<td>15:30</td>
 		<td>Dokkhuset</td>
+		</tr>
+		<tr>
+			<td class="info">Evening program</td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
 		</tr>
 		<tr>
 		<td>Tone Åse</td>
