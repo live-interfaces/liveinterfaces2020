@@ -82,6 +82,7 @@ title: Program
 		<td>Performance paper</td>
 		<td>10:35</td>
 		<td>Dokkhuset</td>
+		<td><a href=./assets/papers/ICLI2020_paper_63.pdf>PDF</a></td>
 		</tr>
 		<tr>
 		<td class="info">BREAK</td>
@@ -96,6 +97,7 @@ title: Program
 		<td>Colloquial paper</td>
 		<td>11:20</td>
 		<td>Dokkhuset</td>
+		<td><a href=./assets/papers/ICLI2020_paper_25.pdf>PDF</a></td>
 		</tr>
 		<tr>
 		<td>Rene Mogensen</td>
@@ -103,6 +105,7 @@ title: Program
 		<td>Paper</td>
 		<td>11:50</td>
 		<td>Dokkhuset</td>
+		<td><a href=./assets/papers/ICLI2020_paper_9.pdf>PDF</a></td>
 		</tr>
 		<tr>
 		<td>Matthew Hughes, Jaime Garcia, Felicity Wilcox, Robert Sazdov, Andrew Johnston and Andrew Bluff</td>
@@ -110,6 +113,7 @@ title: Program
 		<td>Paper</td>
 		<td>12:10</td>
 		<td>Dokkhuset</td>
+		<td><a href=./assets/papers/ICLI2020_paper_36.pdf>PDF</a></td>
 		</tr>
 		<tr>
 		<td class="info">LUNCH</td>
