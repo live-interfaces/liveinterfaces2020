@@ -75,7 +75,7 @@ title: Program
 		<td>Paper</td>
 		<td>10:15</td>
 		<td>Dokkhuset</td>
-		<td><a href="./assets/papers/ICLI2020_paper_15.pdf">PDF</a></td>
+		<td><a href="../assets/papers/ICLI2020_paper_15.pdf">PDF</a></td>
 		</tr>
 		<tr>
 		<td>Andreas Bergsland</td>
@@ -83,7 +83,7 @@ title: Program
 		<td>Performance paper</td>
 		<td>10:35</td>
 		<td>Dokkhuset</td>
-		<td><a href="./assets/papers/ICLI2020_paper_63.pdf">PDF</a></td>
+		<td><a href="../assets/papers/ICLI2020_paper_63.pdf">PDF</a></td>
 		</tr>
 		<tr>
 		<td class="info">BREAK</td>
@@ -99,7 +99,7 @@ title: Program
 		<td>Colloquial paper</td>
 		<td>11:20</td>
 		<td>Dokkhuset</td>
-		<td><a href="./assets/papers/ICLI2020_paper_25.pdf">PDF</a></td>
+		<td><a href="../assets/papers/ICLI2020_paper_25.pdf">PDF</a></td>
 		</tr>
 		<tr>
 		<td>Rene Mogensen</td>
@@ -107,7 +107,7 @@ title: Program
 		<td>Paper</td>
 		<td>11:50</td>
 		<td>Dokkhuset</td>
-		<td><a href="./assets/papers/ICLI2020_paper_9.pdf">PDF</a></td>
+		<td><a href="../assets/papers/ICLI2020_paper_9.pdf">PDF</a></td>
 		</tr>
 		<tr>
 		<td>Matthew Hughes, Jaime Garcia, Felicity Wilcox, Robert Sazdov, Andrew Johnston and Andrew Bluff</td>
@@ -115,7 +115,7 @@ title: Program
 		<td>Paper</td>
 		<td>12:10</td>
 		<td>Dokkhuset</td>
-		<td><a href="./assets/papers/ICLI2020_paper_36.pdf">PDF</a></td>
+		<td><a href="../assets/papers/ICLI2020_paper_36.pdf">PDF</a></td>
 		</tr>
 		<tr>
 		<td class="info">LUNCH</td>
@@ -131,7 +131,7 @@ title: Program
 		<td>Performance paper</td>
 		<td>13:30</td>
 		<td>Dokkhuset</td>
-		<td><a href="./assets/papers/ICLI2020_paper_43.pdf">PDF</a></td>
+		<td><a href="../assets/papers/ICLI2020_paper_43.pdf">PDF</a></td>
 		</tr>
 		<tr>
 		<td>Huan Fan</td>
@@ -139,7 +139,7 @@ title: Program
 		<td>Colloquial paper</td>
 		<td>14:00</td>
 		<td>Dokkhuset</td>
-		<td><a href="./assets/papers/ICLI2020_paper_68.pdf">PDF</a></td>
+		<td><a href="../assets/papers/ICLI2020_paper_68.pdf">PDF</a></td>
 		</tr>
 		<tr>
 		<td>Michael Krzyzaniak, Kyrre Glette, Alexander Refsum Jensenius, Frank Veenstra, Çagri Erdem and Michael Krzyzaniak</td>
@@ -147,7 +147,7 @@ title: Program
 		<td>Installation</td>
 		<td>14:30</td>
 		<td>Dokkhuset</td>
-		<td><a href="./assets/papers/ICLI2020_paper_27.pdf">PDF</a></td>
+		<td><a href="../assets/papers/ICLI2020_paper_27.pdf">PDF</a></td>
 		</tr>
 		<tr>
 		<td class="info">BREAK</td>
@@ -163,7 +163,7 @@ title: Program
 		<td>Performance paper</td>
 		<td>14:55</td>
 		<td>Dokkhuset</td>
-		<td><a href="./assets/papers/ICLI2020_paper_17.pdf">PDF</a></td>
+		<td><a href="../assets/papers/ICLI2020_paper_17.pdf">PDF</a></td>
 		</tr>
 		<tr>
 		<td>Karolina Jawad and Anna Xambó Sedó</td>
@@ -171,7 +171,7 @@ title: Program
 		<td>Paper</td>
 		<td>15:25</td>
 		<td>Dokkhuset</td>
-		<td><a href="./assets/papers/ICLI2020_paper_28.pdf">PDF</a></td>
+		<td><a href="../assets/papers/ICLI2020_paper_28.pdf">PDF</a></td>
 		</tr>
 		<tr>
 			<td class="info">Evening&nbsp;program</td>
@@ -213,7 +213,7 @@ title: Program
 		<td>Paper</td>
 		<td>10:00</td>
 		<td>Dokkhuset</td>
-		<td><a href="./assets/papers/ICLI2020_paper_51.pdf">PDF</a></td>
+		<td><a href="../assets/papers/ICLI2020_paper_51.pdf">PDF</a></td>
 		</tr>
 		<tr>
 		<td>Helena Marinho, Rui Penha</td>
@@ -229,7 +229,7 @@ title: Program
 		<td>Colloquial paper</td>
 		<td>10:50</td>
 		<td>Dokkhuset</td>
-		<td><a href="./assets/papers/ICLI2020_paper_70.pdf">PDF</a></td>
+		<td><a href="../assets/papers/ICLI2020_paper_70.pdf">PDF</a></td>
 		</tr>
 		<tr>
 		<td class="info">BREAK</td>
@@ -245,7 +245,7 @@ title: Program
 		<td>Paper</td>
 		<td>11:35</td>
 		<td>Dokkhuset</td>
-		<td><a href="./assets/papers/ICLI2020_paper_41.pdf">PDF</a></td>
+		<td><a href="../assets/papers/ICLI2020_paper_41.pdf">PDF</a></td>
 		</tr>
 		<tr>
 		<td>Marije Baalman</td>
@@ -253,7 +253,7 @@ title: Program
 		<td>Colloquial paper</td>
 		<td>11:55</td>
 		<td>Dokkhuset</td>
-		<td><a href="./assets/papers/ICLI2020_paper_31.pdf">PDF</a></td>
+		<td><a href="../assets/papers/ICLI2020_paper_31.pdf">PDF</a></td>
 		</tr>
 		<tr>
 		<td>Peter Bennett, Jordi Solsona Belenguer and Martin Murer</td>
@@ -261,7 +261,7 @@ title: Program
 		<td>Installation</td>
 		<td>12:15</td>
 		<td>Dokkhuset</td>
-		<td><a href="./assets/papers/ICLI2020_paper_23.pdf">PDF</a></td>
+		<td><a href="../assets/papers/ICLI2020_paper_23.pdf">PDF</a></td>
 		</tr>
 		<tr>
 		<td class="info">LUNCH</td>
@@ -277,7 +277,7 @@ title: Program
 		<td>Performance paper</td>
 		<td>13:30</td>
 		<td>Dokkhuset</td>
-		<td><a href="./assets/papers/ICLI2020_paper_7.pdf">PDF</a></td>
+		<td><a href="../assets/papers/ICLI2020_paper_7.pdf">PDF</a></td>
 		</tr>
 		<tr>
 		<td>Elizabeth Wilson, Gyorgy Fazekas and Geraint Wiggins</td>
@@ -285,7 +285,7 @@ title: Program
 		<td>Colloquial paper</td>
 		<td>14:00</td>
 		<td>Dokkhuset</td>
-		<td><a href="./assets/papers/ICLI2020_paper_52.pdf">PDF</a></td>
+		<td><a href="../assets/papers/ICLI2020_paper_52.pdf">PDF</a></td>
 		</tr>
 		<tr>
 		<td class="info">BREAK</td>
@@ -301,7 +301,7 @@ title: Program
 		<td>Performance paper</td>
 		<td>14:45</td>
 		<td>Dokkhuset</td>
-		<td><a href="./assets/papers/ICLI2020_paper_19.pdf">PDF</a></td>
+		<td><a href="../assets/papers/ICLI2020_paper_19.pdf">PDF</a></td>
 		</tr>
 		<tr>
 		<td>Luis Leite and Amândio Anastácio</td>
@@ -309,7 +309,7 @@ title: Program
 		<td>Paper</td>
 		<td>15:15</td>
 		<td>Dokkhuset</td>
-		<td><a href="./assets/papers/ICLI2020_paper_22.pdf">PDF</a></td>
+		<td><a href="../assets/papers/ICLI2020_paper_22.pdf">PDF</a></td>
 		</tr>
 		<tr>
 			<td class="info">Evening&nbsp;program</td>
@@ -333,7 +333,7 @@ title: Program
 			<td>Performance stage</td>
 			<td>20:00</td>
 			<td>Rockheim</td>
-		<td><a href="./assets/papers/ICLI2020_paper_18.pdf">PDF</a></td>
+		<td><a href="../assets/papers/ICLI2020_paper_18.pdf">PDF</a></td>
 		</tr>
 		<tr>
 			<td>Federico Ghelli Visi and Aqaxa</td>
@@ -341,7 +341,7 @@ title: Program
 			<td>Performance stage</td>
 			<td>20:30</td>
 			<td>Rockheim</td>
-		<td><a href="./assets/papers/ICLI2020_paper_44.pdf">PDF</a></td>
+		<td><a href="../assets/papers/ICLI2020_paper_44.pdf">PDF</a></td>
 		</tr>
 		<tr>
 			<td>Trond Engum and Carl Haakon Waadeland</td>
@@ -349,7 +349,7 @@ title: Program
 			<td>Performance stage</td>
 			<td>20:50</td>
 			<td>Rockheim</td>
-		<td><a href="./assets/papers/ICLI2020_paper_49.pdf">PDF</a></td>
+		<td><a href="../assets/papers/ICLI2020_paper_49.pdf">PDF</a></td>
 		</tr>
 		<tr>
 			<td>Franziska Baumann</td>
@@ -357,7 +357,7 @@ title: Program
 			<td>Performance stage</td>
 			<td>21:20</td>
 			<td>Rockheim</td>
-		<td><a href="./assets/papers/ICLI2020_paper_72.pdf">PDF</a></td>
+		<td><a href="../assets/papers/ICLI2020_paper_72.pdf">PDF</a></td>
 		</tr>
 	</tbody>
 </table>
@@ -383,7 +383,7 @@ title: Program
 			<td>Paper</td>
 			<td>10:00</td>
 			<td>Dokkhuset</td>
-		<td><a href="./assets/papers/ICLI2020_paper_11.pdf">PDF</a></td>
+		<td><a href="../assets/papers/ICLI2020_paper_11.pdf">PDF</a></td>
 		</tr>
 		<tr>
 			<td>Thomas Moore</td>
@@ -391,7 +391,7 @@ title: Program
 			<td>Performance paper</td>
 			<td>10:20</td>
 			<td>Dokkhuset</td>
-		<td><a href="./assets/papers/ICLI2020_paper_3.pdf">PDF</a></td>
+		<td><a href="../assets/papers/ICLI2020_paper_3.pdf">PDF</a></td>
 		</tr>
 		<tr>
 			<td>Øyvind Brandtsegg and Axel Tidemann</td>
@@ -399,7 +399,7 @@ title: Program
 			<td>Colloquial paper</td>
 			<td>10:40</td>
 			<td>Dokkhuset</td>
-		<td><a href="./assets/papers/ICLI2020_paper_55.pdf">PDF</a></td>
+		<td><a href="../assets/papers/ICLI2020_paper_55.pdf">PDF</a></td>
 		</tr>
 		<tr>
 			<td class="info">BREAK</td>
@@ -415,7 +415,7 @@ title: Program
 			<td>Colloquial paper</td>
 			<td>11:25</td>
 			<td>Dokkhuset</td>
-		<td><a href="./assets/papers/ICLI2020_paper_37.pdf">PDF</a></td>
+		<td><a href="../assets/papers/ICLI2020_paper_37.pdf">PDF</a></td>
 		</tr>
 		<tr>
 			<td>Stian Westerhus</td>
@@ -431,7 +431,7 @@ title: Program
 			<td>Installation</td>
 			<td>12:25</td>
 			<td>Dokkhuset</td>
-		<td><a href="./assets/papers/ICLI2020_paper_62.pdf">PDF</a></td>
+		<td><a href="../assets/papers/ICLI2020_paper_62.pdf">PDF</a></td>
 		</tr>
 		<tr>
 			<td class="info">LUNCH</td>
@@ -447,7 +447,7 @@ title: Program
 			<td>Colloquial paper</td>
 			<td>13:35</td>
 			<td>Dokkhuset</td>
-		<td><a href="./assets/papers/ICLI2020_paper_39.pdf">PDF</a></td>
+		<td><a href="../assets/papers/ICLI2020_paper_39.pdf">PDF</a></td>
 		</tr>
 		<tr>
 		<td>Bruno Pereira and Pedro Santos</td>
@@ -455,7 +455,7 @@ title: Program
 		<td>Paper</td>
 		<td>14:05</td>
 		<td>Dokkhuset</td>
-		<td><a href="./assets/papers/ICLI2020_paper_33.pdf">PDF</a></td>
+		<td><a href="../assets/papers/ICLI2020_paper_33.pdf">PDF</a></td>
 		</tr>
 		<tr>
 		<td class="info">BREAK</td>
@@ -471,7 +471,7 @@ title: Program
 		<td>Performance paper</td>
 		<td>14:40</td>
 		<td>Dokkhuset</td>
-		<td><a href="./assets/papers/ICLI2020_paper_53.pdf">PDF</a></td>
+		<td><a href="../assets/papers/ICLI2020_paper_53.pdf">PDF</a></td>
 		</tr>
 		<tr>
 		<td>Gurpreet Chana</td>
@@ -479,7 +479,7 @@ title: Program
 		<td>Performance paper</td>
 		<td>15:10</td>
 		<td>Dokkhuset</td>
-		<td><a href="./assets/papers/ICLI2020_paper_57.pdf">PDF</a></td>
+		<td><a href="../assets/papers/ICLI2020_paper_57.pdf">PDF</a></td>
 		</tr>
 		<tr>
 			<td class="info">Evening&nbsp;program</td>
@@ -495,7 +495,7 @@ title: Program
 		<td>Performance stage</td>
 		<td>19:00</td>
 		<td>Cinemateket</td>
-		<td><a href="./assets/papers/ICLI2020_paper_21.pdf">PDF</a></td>
+		<td><a href="../assets/papers/ICLI2020_paper_21.pdf">PDF</a></td>
 		</tr>
 		<tr>
 		<td>Marije Baalman</td>
@@ -503,7 +503,7 @@ title: Program
 		<td>Performance stage</td>
 		<td>19:30</td>
 		<td>Cinemateket</td>
-		<td><a href="./assets/papers/ICLI2020_paper_30.pdf">PDF</a></td>
+		<td><a href="../assets/papers/ICLI2020_paper_30.pdf">PDF</a></td>
 		</tr>
 		<tr>
 		<td>Marithe Van der Aa and Peter Maximowitsch</td>
@@ -511,7 +511,7 @@ title: Program
 		<td>Performance stage</td>
 		<td>20:00</td>
 		<td>Cinemateket</td>
-		<td><a href="./assets/papers/ICLI2020_paper_32.pdf">PDF</a></td>
+		<td><a href="../assets/papers/ICLI2020_paper_32.pdf">PDF</a></td>
 		</tr>
 		<tr>
 		<td>Bernt Isak Wærstad</td>
@@ -519,7 +519,7 @@ title: Program
 		<td>Performance stage</td>
 		<td>20:30</td>
 		<td>Cinemateket</td>
-		<td><a href="./assets/papers/ICLI2020_paper_54.pdf">PDF</a></td>
+		<td><a href="../assets/papers/ICLI2020_paper_54.pdf">PDF</a></td>
 		</tr>
 	</tbody>
 </table>
