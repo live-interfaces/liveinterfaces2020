@@ -62,7 +62,7 @@ title: Program
 	<tbody>
 		<tr>
 		<td>Nora Bilalovic Kulset</td>
-		<td>Welcome from the Institute leader</td>
+		<td>Welcome</td>
 		<td> </td>
 		<td>10:00</td>
 		<td>Dokkhuset</td>
