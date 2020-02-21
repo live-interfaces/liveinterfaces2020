@@ -91,6 +91,7 @@ title: Program
 		<td> </td>
 		<td>11:05</td>
 		<td>Dokkhuset</td>
+		<td> </td>
 		</tr>
 		<tr>
 		<td>Nigel Guérin-Garnett</td>
@@ -122,6 +123,7 @@ title: Program
 		<td> </td>
 		<td>12:30</td>
 		<td>Cantina at Kunstakademiet</td>
+		<td> </td>
 		</tr>
 		<tr>
 		<td>Øystein Fjeldbo and Diana Lindbjerg</td>
@@ -129,6 +131,7 @@ title: Program
 		<td>Performance paper</td>
 		<td>13:30</td>
 		<td>Dokkhuset</td>
+		<td><a href="./assets/papers/ICLI2020_paper_43.pdf">PDF</a></td>
 		</tr>
 		<tr>
 		<td>Huan Fan</td>
@@ -136,6 +139,7 @@ title: Program
 		<td>Colloquial paper</td>
 		<td>14:00</td>
 		<td>Dokkhuset</td>
+		<td><a href="./assets/papers/ICLI2020_paper_68.pdf">PDF</a></td>
 		</tr>
 		<tr>
 		<td>Michael Krzyzaniak, Kyrre Glette, Alexander Refsum Jensenius, Frank Veenstra, Çagri Erdem and Michael Krzyzaniak</td>
@@ -143,6 +147,7 @@ title: Program
 		<td>Installation</td>
 		<td>14:30</td>
 		<td>Dokkhuset</td>
+		<td><a href="./assets/papers/ICLI2020_paper_27.pdf">PDF</a></td>
 		</tr>
 		<tr>
 		<td class="info">BREAK</td>
@@ -150,6 +155,7 @@ title: Program
 		<td> </td>
 		<td>14:40</td>
 		<td>Dokkhuset</td>
+		<td> </td>
 		</tr>
 		<tr>
 		<td>Annina Ruest</td>
@@ -157,6 +163,7 @@ title: Program
 		<td>Performance paper</td>
 		<td>14:55</td>
 		<td>Dokkhuset</td>
+		<td><a href="./assets/papers/ICLI2020_paper_17.pdf">PDF</a></td>
 		</tr>
 		<tr>
 		<td>Karolina Jawad and Anna Xambó Sedó</td>
@@ -164,6 +171,7 @@ title: Program
 		<td>Paper</td>
 		<td>15:25</td>
 		<td>Dokkhuset</td>
+		<td><a href="./assets/papers/ICLI2020_paper_28.pdf">PDF</a></td>
 		</tr>
 		<tr>
 			<td class="info">Evening&nbsp;program</td>
@@ -171,6 +179,7 @@ title: Program
 			<td> </td>
 			<td> </td>
 			<td> </td>
+		<td> </td>
 		</tr>
 		<tr>
 		<td>Petra Bjørkhaug and Øyvind Brandtsegg</td>
@@ -178,6 +187,7 @@ title: Program
 		<td> </td>
 		<td>19:00</td>
 		<td>Nidarosdomen</td>
+		<td> </td>
 		</tr>
 	</tbody>
 </table>
@@ -193,6 +203,7 @@ title: Program
 			<th title="Type">Type</th>
 			<th title="Time">Time</th>
 			<th title="Place">Place</th>
+			<th title="PDF">Paper</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -202,13 +213,15 @@ title: Program
 		<td>Paper</td>
 		<td>10:00</td>
 		<td>Dokkhuset</td>
+		<td><a href="./assets/papers/ICLI2020_paper_51.pdf">PDF</a></td>
 		</tr>
 		<tr>
 		<td>Helena Marinho, Rui Penha</td>
-		<td>Embodied alien. Nobody – no body</td>
+		<td>Invited talk: Embodied alien. Nobody – no body</td>
 		<td>Performance paper</td>
 		<td>10:20</td>
 		<td>Dokkhuset</td>
+		<td> </td>
 		</tr>
 		<tr>
 		<td>Bernt Isak Wærstad</td>
@@ -216,6 +229,7 @@ title: Program
 		<td>Colloquial paper</td>
 		<td>10:50</td>
 		<td>Dokkhuset</td>
+		<td><a href="./assets/papers/ICLI2020_paper_70.pdf">PDF</a></td>
 		</tr>
 		<tr>
 		<td class="info">BREAK</td>
@@ -223,6 +237,7 @@ title: Program
 		<td> </td>
 		<td>11:20</td>
 		<td>Dokkhuset</td>
+		<td> </td>
 		</tr>
 		<tr>
 		<td>Øyvind Brandtsegg</td>
@@ -230,6 +245,7 @@ title: Program
 		<td>Paper</td>
 		<td>11:35</td>
 		<td>Dokkhuset</td>
+		<td><a href="./assets/papers/ICLI2020_paper_41.pdf">PDF</a></td>
 		</tr>
 		<tr>
 		<td>Marije Baalman</td>
@@ -237,6 +253,7 @@ title: Program
 		<td>Colloquial paper</td>
 		<td>11:55</td>
 		<td>Dokkhuset</td>
+		<td><a href="./assets/papers/ICLI2020_paper_31.pdf">PDF</a></td>
 		</tr>
 		<tr>
 		<td>Peter Bennett, Jordi Solsona Belenguer and Martin Murer</td>
@@ -244,6 +261,7 @@ title: Program
 		<td>Installation</td>
 		<td>12:15</td>
 		<td>Dokkhuset</td>
+		<td><a href="./assets/papers/ICLI2020_paper_23.pdf">PDF</a></td>
 		</tr>
 		<tr>
 		<td class="info">LUNCH</td>
@@ -251,6 +269,7 @@ title: Program
 		<td> </td>
 		<td>12:30</td>
 		<td>Cantina at Kunstakademiet</td>
+		<td> </td>
 		</tr>
 		<tr>
 		<td>Tijs Ham</td>
@@ -258,6 +277,7 @@ title: Program
 		<td>Performance paper</td>
 		<td>13:30</td>
 		<td>Dokkhuset</td>
+		<td><a href="./assets/papers/ICLI2020_paper_7.pdf">PDF</a></td>
 		</tr>
 		<tr>
 		<td>Elizabeth Wilson, Gyorgy Fazekas and Geraint Wiggins</td>
@@ -265,6 +285,7 @@ title: Program
 		<td>Colloquial paper</td>
 		<td>14:00</td>
 		<td>Dokkhuset</td>
+		<td><a href="./assets/papers/ICLI2020_paper_52.pdf">PDF</a></td>
 		</tr>
 		<tr>
 		<td class="info">BREAK</td>
@@ -272,6 +293,7 @@ title: Program
 		<td> </td>
 		<td>14:30</td>
 		<td>Dokkhuset</td>
+		<td> </td>
 		</tr>
 		<tr>
 		<td>Luis Arandas, Rui Penha and José Gomes</td>
@@ -279,6 +301,7 @@ title: Program
 		<td>Performance paper</td>
 		<td>14:45</td>
 		<td>Dokkhuset</td>
+		<td><a href="./assets/papers/ICLI2020_paper_19.pdf">PDF</a></td>
 		</tr>
 		<tr>
 		<td>Luis Leite and Amândio Anastácio</td>
@@ -286,6 +309,7 @@ title: Program
 		<td>Paper</td>
 		<td>15:15</td>
 		<td>Dokkhuset</td>
+		<td><a href="./assets/papers/ICLI2020_paper_22.pdf">PDF</a></td>
 		</tr>
 		<tr>
 			<td class="info">Evening&nbsp;program</td>
@@ -293,6 +317,7 @@ title: Program
 			<td> </td>
 			<td> </td>
 			<td> </td>
+		<td> </td>
 		</tr>
 		<tr>
 		<td>Rebecca Fiebrink</td>
@@ -300,6 +325,7 @@ title: Program
 		<td> </td>
 		<td>19:00</td>
 		<td>Rockheim</td>
+		<td> </td>
 		</tr>
 		<tr>
 			<td>Daniel Formo</td>
@@ -307,6 +333,7 @@ title: Program
 			<td>Performance stage</td>
 			<td>20:00</td>
 			<td>Rockheim</td>
+		<td><a href="./assets/papers/ICLI2020_paper_18.pdf">PDF</a></td>
 		</tr>
 		<tr>
 			<td>Federico Ghelli Visi and Aqaxa</td>
@@ -314,6 +341,7 @@ title: Program
 			<td>Performance stage</td>
 			<td>20:30</td>
 			<td>Rockheim</td>
+		<td><a href="./assets/papers/ICLI2020_paper_44.pdf">PDF</a></td>
 		</tr>
 		<tr>
 			<td>Trond Engum and Carl Haakon Waadeland</td>
@@ -321,6 +349,7 @@ title: Program
 			<td>Performance stage</td>
 			<td>20:50</td>
 			<td>Rockheim</td>
+		<td><a href="./assets/papers/ICLI2020_paper_49.pdf">PDF</a></td>
 		</tr>
 		<tr>
 			<td>Franziska Baumann</td>
@@ -328,6 +357,7 @@ title: Program
 			<td>Performance stage</td>
 			<td>21:20</td>
 			<td>Rockheim</td>
+		<td><a href="./assets/papers/ICLI2020_paper_72.pdf">PDF</a></td>
 		</tr>
 	</tbody>
 </table>
@@ -343,7 +373,8 @@ title: Program
 			<th title="Type">Type</th>
 			<th title="Time">Time</th>
 			<th title="Place">Place</th>
-		</tr>
+			<th title="PDF">Paper</th>
+	</tr>
 	</thead>
 	<tbody>
 		<tr>
@@ -352,6 +383,7 @@ title: Program
 			<td>Paper</td>
 			<td>10:00</td>
 			<td>Dokkhuset</td>
+		<td><a href="./assets/papers/ICLI2020_paper_11.pdf">PDF</a></td>
 		</tr>
 		<tr>
 			<td>Thomas Moore</td>
@@ -359,6 +391,7 @@ title: Program
 			<td>Performance paper</td>
 			<td>10:20</td>
 			<td>Dokkhuset</td>
+		<td><a href="./assets/papers/ICLI2020_paper_3.pdf">PDF</a></td>
 		</tr>
 		<tr>
 			<td>Øyvind Brandtsegg and Axel Tidemann</td>
@@ -366,6 +399,7 @@ title: Program
 			<td>Colloquial paper</td>
 			<td>10:40</td>
 			<td>Dokkhuset</td>
+		<td><a href="./assets/papers/ICLI2020_paper_55.pdf">PDF</a></td>
 		</tr>
 		<tr>
 			<td class="info">BREAK</td>
@@ -373,6 +407,7 @@ title: Program
 			<td> </td>
 			<td>11:10</td>
 			<td>Dokkhuset</td>
+		<td> </td>
 		</tr>
 		<tr>
 			<td>Franziska Baumann</td>
@@ -380,6 +415,7 @@ title: Program
 			<td>Colloquial paper</td>
 			<td>11:25</td>
 			<td>Dokkhuset</td>
+		<td><a href="./assets/papers/ICLI2020_paper_37.pdf">PDF</a></td>
 		</tr>
 		<tr>
 			<td>Stian Westerhus</td>
@@ -387,6 +423,7 @@ title: Program
 			<td> </td>
 			<td>11:55</td>
 			<td>Dokkhuset</td>
+		<td> </td>
 		</tr>
 		<tr>
 			<td>Jo Kroese and Milton Almonacid</td>
@@ -394,6 +431,7 @@ title: Program
 			<td>Installation</td>
 			<td>12:25</td>
 			<td>Dokkhuset</td>
+		<td><a href="./assets/papers/ICLI2020_paper_62.pdf">PDF</a></td>
 		</tr>
 		<tr>
 			<td class="info">LUNCH</td>
@@ -401,6 +439,7 @@ title: Program
 			<td> </td>
 			<td>12:35</td>
 			<td>Cantina at Kunstakademiet</td>
+		<td> </td>
 		</tr>
 		<tr>
 			<td>Kristin Norderval</td>
@@ -408,6 +447,7 @@ title: Program
 			<td>Colloquial paper</td>
 			<td>13:35</td>
 			<td>Dokkhuset</td>
+		<td><a href="./assets/papers/ICLI2020_paper_39.pdf">PDF</a></td>
 		</tr>
 		<tr>
 		<td>Bruno Pereira and Pedro Santos</td>
@@ -415,6 +455,7 @@ title: Program
 		<td>Paper</td>
 		<td>14:05</td>
 		<td>Dokkhuset</td>
+		<td><a href="./assets/papers/ICLI2020_paper_33.pdf">PDF</a></td>
 		</tr>
 		<tr>
 		<td class="info">BREAK</td>
@@ -422,6 +463,7 @@ title: Program
 		<td> </td>
 		<td>14:25</td>
 		<td>Dokkhuset</td>
+		<td> </td>
 		</tr>
 		<tr>
 		<td>Jordan Sand</td>
@@ -429,6 +471,7 @@ title: Program
 		<td>Performance paper</td>
 		<td>14:40</td>
 		<td>Dokkhuset</td>
+		<td><a href="./assets/papers/ICLI2020_paper_53.pdf">PDF</a></td>
 		</tr>
 		<tr>
 		<td>Gurpreet Chana</td>
@@ -436,6 +479,7 @@ title: Program
 		<td>Performance paper</td>
 		<td>15:10</td>
 		<td>Dokkhuset</td>
+		<td><a href="./assets/papers/ICLI2020_paper_57.pdf">PDF</a></td>
 		</tr>
 		<tr>
 			<td class="info">Evening&nbsp;program</td>
@@ -443,6 +487,7 @@ title: Program
 			<td> </td>
 			<td> </td>
 			<td> </td>
+		<td> </td>
 		</tr>
 		<tr>
 		<td>Tone Åse</td>
@@ -450,6 +495,7 @@ title: Program
 		<td>Performance stage</td>
 		<td>19:00</td>
 		<td>Cinemateket</td>
+		<td><a href="./assets/papers/ICLI2020_paper_21.pdf">PDF</a></td>
 		</tr>
 		<tr>
 		<td>Marije Baalman</td>
@@ -457,6 +503,7 @@ title: Program
 		<td>Performance stage</td>
 		<td>19:30</td>
 		<td>Cinemateket</td>
+		<td><a href="./assets/papers/ICLI2020_paper_30.pdf">PDF</a></td>
 		</tr>
 		<tr>
 		<td>Marithe Van der Aa and Peter Maximowitsch</td>
@@ -464,6 +511,7 @@ title: Program
 		<td>Performance stage</td>
 		<td>20:00</td>
 		<td>Cinemateket</td>
+		<td><a href="./assets/papers/ICLI2020_paper_32.pdf">PDF</a></td>
 		</tr>
 		<tr>
 		<td>Bernt Isak Wærstad</td>
@@ -471,6 +519,7 @@ title: Program
 		<td>Performance stage</td>
 		<td>20:30</td>
 		<td>Cinemateket</td>
+		<td><a href="./assets/papers/ICLI2020_paper_54.pdf">PDF</a></td>
 		</tr>
 	</tbody>
 </table>
