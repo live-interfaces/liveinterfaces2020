@@ -57,6 +57,7 @@ title: Program
 		<th title="Type">Type</th>
 		<th title="Time">Time</th>
 		<th title="Place">Place</th>
+		<th title="PDF">PDF</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -73,6 +74,7 @@ title: Program
 		<td>Paper</td>
 		<td>10:15</td>
 		<td>Dokkhuset</td>
+		<td><a href=./assets/papers/ICLI2020_paper_15.pdf>PDF</a></td>
 		</tr>
 		<tr>
 		<td>Andreas Bergsland</td>
