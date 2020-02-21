@@ -57,7 +57,7 @@ title: Program
 		<th title="Type">Type</th>
 		<th title="Time">Time</th>
 		<th title="Place">Place</th>
-		<th title="PDF">PDF</th>
+		<th title="PDF">Paper</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -67,6 +67,7 @@ title: Program
 		<td> </td>
 		<td>10:00</td>
 		<td>Dokkhuset</td>
+		<td> </td>
 		</tr>
 		<tr>
 		<td>Federico Visi and Atau Tanaka</td>
@@ -74,7 +75,7 @@ title: Program
 		<td>Paper</td>
 		<td>10:15</td>
 		<td>Dokkhuset</td>
-		<td><a href=./assets/papers/ICLI2020_paper_15.pdf>PDF</a></td>
+		<td><a href="./assets/papers/ICLI2020_paper_15.pdf">PDF</a></td>
 		</tr>
 		<tr>
 		<td>Andreas Bergsland</td>
@@ -82,7 +83,7 @@ title: Program
 		<td>Performance paper</td>
 		<td>10:35</td>
 		<td>Dokkhuset</td>
-		<td><a href=./assets/papers/ICLI2020_paper_63.pdf>PDF</a></td>
+		<td><a href="./assets/papers/ICLI2020_paper_63.pdf">PDF</a></td>
 		</tr>
 		<tr>
 		<td class="info">BREAK</td>
@@ -97,7 +98,7 @@ title: Program
 		<td>Colloquial paper</td>
 		<td>11:20</td>
 		<td>Dokkhuset</td>
-		<td><a href=./assets/papers/ICLI2020_paper_25.pdf>PDF</a></td>
+		<td><a href="./assets/papers/ICLI2020_paper_25.pdf">PDF</a></td>
 		</tr>
 		<tr>
 		<td>Rene Mogensen</td>
@@ -105,7 +106,7 @@ title: Program
 		<td>Paper</td>
 		<td>11:50</td>
 		<td>Dokkhuset</td>
-		<td><a href=./assets/papers/ICLI2020_paper_9.pdf>PDF</a></td>
+		<td><a href="./assets/papers/ICLI2020_paper_9.pdf">PDF</a></td>
 		</tr>
 		<tr>
 		<td>Matthew Hughes, Jaime Garcia, Felicity Wilcox, Robert Sazdov, Andrew Johnston and Andrew Bluff</td>
@@ -113,7 +114,7 @@ title: Program
 		<td>Paper</td>
 		<td>12:10</td>
 		<td>Dokkhuset</td>
-		<td><a href=./assets/papers/ICLI2020_paper_36.pdf>PDF</a></td>
+		<td><a href="./assets/papers/ICLI2020_paper_36.pdf">PDF</a></td>
 		</tr>
 		<tr>
 		<td class="info">LUNCH</td>
