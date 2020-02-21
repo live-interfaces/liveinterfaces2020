@@ -75,8 +75,8 @@ title: Program
 		<td>Dokkhuset</td>
 		</tr>
 		<tr>
-		<td>Federico Ghelli Visi and Aqaxa</td>
-		<td>You have a new memory</td>
+		<td>Andreas Bergsland</td>
+		<td>Feedback systems with FM receivers and transmitters as musical instruments</td>
 		<td>Performance paper</td>
 		<td>10:35</td>
 		<td>Dokkhuset</td>
@@ -166,7 +166,7 @@ title: Program
 			<td> </td>
 		</tr>
 		<tr>
-		<td>Øyvind Brandtsegg and Petra Bjørkhaug</td>
+		<td>Petra Bjørkhaug and Øyvind Brandtsegg</td>
 		<td>Pipe organ and computer</td>
 		<td> </td>
 		<td>19:00</td>
@@ -197,8 +197,8 @@ title: Program
 		<td>Dokkhuset</td>
 		</tr>
 		<tr>
-		<td>Tom Mudd</td>
-		<td>Computer Music Labour</td>
+		<td>Helena Marinho, Rui Penha</td>
+		<td>Embodied alien. Nobody – no body</td>
 		<td>Performance paper</td>
 		<td>10:20</td>
 		<td>Dokkhuset</td>
@@ -302,8 +302,8 @@ title: Program
 			<td>Rockheim</td>
 		</tr>
 		<tr>
-			<td>Butch Rovan</td>
-			<td>of the survival of images </td>
+			<td>Federico Ghelli Visi and Aqaxa</td>
+			<td>You have a new memory</td>
 			<td>Performance stage</td>
 			<td>20:30</td>
 			<td>Rockheim</td>
@@ -312,14 +312,14 @@ title: Program
 			<td>Trond Engum and Carl Haakon Waadeland</td>
 			<td>Music performance &quot;Magnify the sound&quot;</td>
 			<td>Performance stage</td>
-			<td>21:00</td>
+			<td>20:50</td>
 			<td>Rockheim</td>
 		</tr>
 		<tr>
 			<td>Franziska Baumann</td>
 			<td>The Echo I Touch - Performance</td>
 			<td>Performance stage</td>
-			<td>21:30</td>
+			<td>21:20</td>
 			<td>Rockheim</td>
 		</tr>
 	</tbody>
@@ -347,45 +347,45 @@ title: Program
 			<td>Dokkhuset</td>
 		</tr>
 		<tr>
-			<td>Andreas Bergsland</td>
-			<td>Feedback systems with FM receivers and transmitters as musical instruments</td>
+			<td>Thomas Moore</td>
+			<td>Hybrid Conductor: Case Study and Analysis of Alexander Schubert’s Point Ones</td>
 			<td>Performance paper</td>
 			<td>10:20</td>
-			<td>Dokkhuset</td>
-		</tr>
-		<tr>
-			<td class="info">BREAK</td>
-			<td> </td>
-			<td> </td>
-			<td>10:50</td>
 			<td>Dokkhuset</td>
 		</tr>
 		<tr>
 			<td>Øyvind Brandtsegg and Axel Tidemann</td>
 			<td>Shape: an adaptive musical interface that optimize the correlation between gesture and sound</td>
 			<td>Colloquial paper</td>
-			<td>11:05</td>
+			<td>10:40</td>
+			<td>Dokkhuset</td>
+		</tr>
+		<tr>
+			<td class="info">BREAK</td>
+			<td> </td>
+			<td> </td>
+			<td>11:10</td>
 			<td>Dokkhuset</td>
 		</tr>
 		<tr>
 			<td>Franziska Baumann</td>
 			<td>&quot;The Echo I Touch&quot; De- &amp; Embodiment in spatial Vocal Performance Art</td>
 			<td>Colloquial paper</td>
-			<td>11:35</td>
+			<td>11:25</td>
 			<td>Dokkhuset</td>
 		</tr>
 		<tr>
 			<td>Stian Westerhus</td>
 			<td>Invited paper: Transcending the interface</td>
 			<td> </td>
-			<td>12:05</td>
+			<td>11:55</td>
 			<td>Dokkhuset</td>
 		</tr>
 		<tr>
 			<td>Jo Kroese and Milton Almonacid</td>
 			<td>The Gratitude Machine</td>
 			<td>Installation</td>
-			<td>12:35</td>
+			<td>12:25</td>
 			<td>Dokkhuset</td>
 		</tr>
 		<tr>
@@ -424,17 +424,10 @@ title: Program
 		<td>Dokkhuset</td>
 		</tr>
 		<tr>
-		<td>Thomas Moore</td>
-		<td>Hybrid Conductor: Case Study and Analysis of Alexander Schubert’s Point Ones</td>
-		<td>Paper</td>
-		<td>15:10</td>
-		<td>Dokkhuset</td>
-		</tr>
-		<tr>
 		<td>Gurpreet Chana</td>
 		<td>TABLIX for International Conference on Live Interfaces</td>
 		<td>Performance paper</td>
-		<td>15:30</td>
+		<td>15:10</td>
 		<td>Dokkhuset</td>
 		</tr>
 		<tr>
