@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Program (changes are currently being made!)
+title: Program 
 ---
 
 <style>
