@@ -166,11 +166,11 @@ The booking must be done at least 3 weeks before the conference starts to ensure
  
 </script>
 [Rockheim](https://rockheim.no/) is the National Museum of Popular Music that collects, preserve and disseminates
-Norwegian popular music from the 1950s until today. Rockheim is located on the Brattørkaia in Trondheim.  
+Norwegian popular music from the 1950s until today. Rockheim is located on the Brattørkaia in Trondheim. The keynote and concert Tuesday evening at 19.00 happense here. 
 
-[Dokkhuset](http://dokkhuset.no/) is a concert venue at Nedre Elvehavn in Trondheim. The Dokkhuset scene presents chamber music and jazz, new music, world music and other forms of musical expression.
+[Dokkhuset](http://dokkhuset.no/) is a concert venue at Nedre Elvehavn in Trondheim. The Dokkhuset scene presents chamber music and jazz, new music, world music and other forms of musical expression. The daytime sessions all three days of the ceonference happens here.
 
-[Nidaros Cathedral](https://www.nidarosdomen.no/en/) is the world’s northernmost medieval cathedral and Norway’s national sanctuary.
+[Nidaros Cathedral](https://www.nidarosdomen.no/en/) is the world’s northernmost medieval cathedral and Norway’s national sanctuary. The reception concert Monday night at 19.00 happens here.
 
 <h3 id="travel">Travel to Trondheim</h3>  
 

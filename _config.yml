@@ -38,6 +38,8 @@ navigation_header:
     url: /trondheim/
   - title: Organization 
     url: /organization/
+  - title: Live streams 
+    url: /livestreams/
   - title: Proceedings 
     url: /proceedings/
   - title: About 
