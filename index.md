@@ -6,7 +6,7 @@ feature_text: |
 # Conference theme
 ---
 
- <span style="color:red">[Corona information](#corona)</span>
+ [<span style="color:red">Corona information</span>](#corona)
 
 The fifth International Conference on Live Interfaces will take place at the Norwegian University of Science and Technology in Trondheim, 9-11 March 2020. This biennial conference will bring together people working with live interfaces in the performing arts, including music, the visual arts, dance, puppetry, robotics or games. The conference scope is highly interdisciplinary but with a focus on interface technologies of expression in the area of performance. Topics of liveness, immediacy, presence (and tele-presence), mediation, collaboration and timing or flow are engaged with and questioned in order to gain a deeper understanding of the role contemporary media technologies play in human expression.  
 The special theme of the 2020 conference is
