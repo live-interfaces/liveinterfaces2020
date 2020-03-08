@@ -38,6 +38,6 @@ This ICLI collaborates with the [Meta.Morf](http://metamorf.no/) biennal for art
 ICLI monitors the situation regarding the spread of Corona, and we will follow any public (institutional, national, international) policies that are put in effect.
 Currently there are no policies recommending cancellation of the event.
 In ICLI as in other events where we meet other people, standard precautions are recommended regarding hand hygiene (good hand wash and alcohol rub) and respiratory hygiene (using a tissue to cover your nose and mouth when coughing or sneezing).
-Here are the guidelines from The Norwegian Institute of Public Health. https://www.fhi.no/en/op/novel-coronavirus-facts-advice/facts-and-general-advice/advice-and-information-to-public/
+Here are the [guidelines from The Norwegian Institute of Public Health](https://www.fhi.no/en/op/novel-coronavirus-facts-advice/facts-and-general-advice/advice-and-information-to-public/)
 We will have hand disinfectant and information posters at the venue.
 
