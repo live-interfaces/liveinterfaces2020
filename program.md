@@ -498,18 +498,10 @@ title: Program
 		<td><a href="../assets/papers/ICLI2020_paper_30.pdf">PDF</a></td>
 	</tr>
 	<tr>
-		<td>Marithe Van der Aa and Peter Maximowitsch</td>
-		<td>H+-</td>
-		<td>Performance stage</td>
-		<td>20:00</td>
-		<td>Cinemateket</td>
-		<td><a href="../assets/papers/ICLI2020_paper_32.pdf">PDF</a></td>
-	</tr>
-	<tr>
 		<td>Bernt Isak Wærstad</td>
 		<td>Ghost Doctor Duplicate</td>
 		<td>Performance stage</td>
-		<td>20:30</td>
+		<td>20:00</td>
 		<td>Cinemateket</td>
 		<td><a href="../assets/papers/ICLI2020_paper_54.pdf">PDF</a></td>
 	</tr>
