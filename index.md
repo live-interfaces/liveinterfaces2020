@@ -26,7 +26,7 @@ a larger extent is a black box. We understand to a lesser degree how the interna
 and then, how do we understand what we do as artists with these interfaces?
 
 We are especially proud to announce **[Rebecca Fiebrink](https://www.doc.gold.ac.uk/~mas01rf/homepage/)** as a keynote speaker!
-Rebecca Fiebrink teaches Computing at Goldsmiths University of London as a Senior lecturer. Her research includes machine learning,
+Rebecca Fiebrink is a Reader in the Creative Computing Institute at University of the Arts London". Her research includes machine learning,
 Human-computer interaction (among more), in particular in the development of new digital instruments and gestural interfaces.
 Rebecca developed the Wekinator, an open source software that enables machine learning in the context of artistic and musical performances. It allows users to build a human-computer interaction without writing code, offering a new form of accessibility. Rebecca is also involved in the creation of interactive technologies for digital humanities research and machine learning education.
 
