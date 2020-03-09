@@ -10,7 +10,7 @@ title: Live Streams
 **ICLI day 1**
 
 Daytime session at Dokkhuset from 10:00 Norwegian local time:
-[https://youtu.be/KzKggLx8A6U](https://youtu.be/KzKggLx8A6U)
+[https://youtu.be/qfTLCHu2dMk](https://youtu.be/qfTLCHu2dMk)
 
 The reception concert at the Nidaros Cathedral will not be streamed.
 This event is a special treat to those physically present
