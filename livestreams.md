@@ -5,6 +5,7 @@ title: Live Streams
 
 
 ***Live streams from the conference events.***
+https://www.youtube.com/channel/UCZ00tUjtX-_nzqoXngV1ZJQ/live
 
 
 **ICLI day 1**
@@ -18,6 +19,7 @@ This event is a special treat to those physically present
 **ICLI day 2**
 
 Daytime session at Dokkhuset from 10:00 Norwegian local time:
+https://www.youtube.com/channel/UCZ00tUjtX-_nzqoXngV1ZJQ/live
 [https://youtu.be/506InyLZ0M8](https://youtu.be/506InyLZ0M8)
 
 Rockheim concert and keynote. 19:00 Norwegian local time
