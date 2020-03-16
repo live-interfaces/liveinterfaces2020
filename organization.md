@@ -37,6 +37,15 @@ Gyrid Kaldestad
 Håkon Dale  
 Emiel Huuijs  
 
+## Session Chairs ICLI Trondheim
+Øyvind Brandtsegg
+Marije Baalman
+Diana Lindbjerg
+Helena Marinho
+Tijs Ham
+Frederico Visi
+
+
 ## ICLI Steering Committee:  
 Alex McLean (University of Leeds/FoAM Kernow)  
 Kate Sicchio (New York University)  
