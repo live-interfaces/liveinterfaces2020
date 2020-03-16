@@ -17,8 +17,25 @@ title: Organization
 [Mathieu Lacroix](https://www.ntnu.edu/employees/mathieu.lacroix)  
 [Ada M. Hoel](http://adahoel.com/)  
 [Tone Åse](https://www.ntnu.edu/employees/tone.ase)
+[Robin Støckert](https://www.ntnu.edu/employees/robin.stockert)
+[Thomas Henriksen](https://www.ntnu.edu/employees/thomas.henriksen)
 
-ICLI is hosted in Trondheim in March 2020. To get in touch with the local organizing committee, please send your inquiries to **liveinterfaces(at)gmail.com**.
+ICLI was hosted in Trondheim in March 2020. To get in touch with the local organizing committee, please send your inquiries to **liveinterfaces(at)gmail.com**.
+
+## Volunteers, ICLI Trondheim 
+Eigil Aandahl  
+Jørgen Varpe  
+Sepehr Haghighi  
+Shreejay Shresta  
+Tom Ignatius  
+Joel Vide Hynsjö  
+Anders Paulsen  
+Allan Nordhøy  
+Thibault Jaccard   
+Anders Bru  
+Gyrid Kaldestad  
+Håkon Dale  
+Emiel Huuijs  
 
 ## ICLI Steering Committee:  
 Alex McLean (University of Leeds/FoAM Kernow)  
