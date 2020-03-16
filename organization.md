@@ -38,12 +38,12 @@ Håkon Dale
 Emiel Huuijs  
 
 ## Session Chairs ICLI Trondheim
-Øyvind Brandtsegg
-Marije Baalman
-Diana Lindbjerg
-Helena Marinho
-Tijs Ham
-Frederico Visi
+Øyvind Brandtsegg  
+Marije Baalman  
+Diana Lindbjerg  
+Helena Marinho  
+Tijs Ham  
+Frederico Visi  
 
 
 ## ICLI Steering Committee:  
