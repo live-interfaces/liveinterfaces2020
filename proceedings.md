@@ -3,7 +3,7 @@ layout: page
 title: Proceedings for ICLI 2020
 ---
 
-The proceedings for ICLI 2020 will be posted as soon as they are ready.
+The proceedings for ICLI 2020 are available [here](https://www.researchcatalogue.net/view/908792/908793).
 
 Document templates for submissions to ICLI2020 can be found [here](./submissiontemplates/submissiontemplates.zip)
 
